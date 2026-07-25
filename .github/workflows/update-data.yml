@@ -4,6 +4,8 @@ on:
   workflow_dispatch:
   schedule:
    - cron: '23 0 * * *'  # Daily at 00:23 UTC.
+permissions:
+  contents: write
 jobs:
   update-data:
     runs-on: ubuntu-22.04
