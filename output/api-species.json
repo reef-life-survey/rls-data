@@ -5131,6 +5131,13 @@
     0,
     []
   ],
+  "Atherinomorus lacunosus": [
+    "Atherinomorus lacunosus",
+    "Hardyhead silverside",
+    "https://reeflifesurvey.com/species/atherinomorus-lacunosus/",
+    0,
+    []
+  ],
   "Atherinomorus spp.": [
     "Atherinomorus spp.",
     "",
@@ -9004,6 +9011,13 @@
     1,
     []
   ],
+  "Centriscus spp.": [
+    "Centriscus spp.",
+    "",
+    null,
+    2,
+    []
+  ],
   "Centroberyx affinis": [
     "Centroberyx affinis",
     "Redfish",
@@ -11514,6 +11528,13 @@
     [
       "https://images.reeflifesurvey.com/1/species_6b_6493b74aa43b8.w1000.h666.JPG"
     ]
+  ],
+  "Chlorodiella spp.": [
+    "Chlorodiella spp.",
+    "",
+    null,
+    1,
+    []
   ],
   "Chlorodiloma odontis": [
     "Chlorodiloma odontis",
@@ -14292,6 +14313,13 @@
     "Comatulella brachiolata",
     "",
     "https://reeflifesurvey.com/species/comatulella-brachiolata/",
+    1,
+    []
+  ],
+  "Comatulida spp.": [
+    "Comatulida spp.",
+    "",
+    null,
     1,
     []
   ],
@@ -26263,6 +26291,13 @@
       "https://images.reeflifesurvey.com/1/species_22_5b125b771f7a9.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_c4_5b125b72c49b1.w1000.h666.jpg"
     ]
+  ],
+  "Halichoeres kneri": [
+    "Halichoeres kneri",
+    "Kners wrasse",
+    "https://reeflifesurvey.com/species/halichoeres-kneri/",
+    0,
+    []
   ],
   "Halichoeres leucoxanthus": [
     "Halichoeres leucoxanthus",
