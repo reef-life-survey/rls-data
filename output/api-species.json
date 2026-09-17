@@ -5930,6 +5930,13 @@
       "https://images.reeflifesurvey.com/0/species_2f_570b43064f4dd.w1000.h666.jpg"
     ]
   ],
+  "Berghia coerulescens": [
+    "Berghia coerulescens",
+    "",
+    "https://reeflifesurvey.com/species/berghia-coerulescens/",
+    1,
+    []
+  ],
   "Bermudella mija": [
     "Bermudella mija",
     "Nudibranch",
@@ -7845,6 +7852,13 @@
       "https://images.reeflifesurvey.com/0/species_14_57140e237f04c.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_c9_57da3fe715709.w1000.h666.jpg"
     ]
+  ],
+  "Caloria quatrefagesi": [
+    "Caloria quatrefagesi",
+    "",
+    "https://reeflifesurvey.com/species/caloria-quatrefagesi/",
+    1,
+    []
   ],
   "Calotomus carolinus": [
     "Calotomus carolinus",
@@ -13255,6 +13269,13 @@
     2,
     []
   ],
+  "Cirripectes sp. [HK]": [
+    "Cirripectes sp. [HK]",
+    "",
+    "https://reeflifesurvey.com/species/cirripectes-sp-hk/",
+    2,
+    []
+  ],
   "Cirripectes sp. [Zanzibar brown]": [
     "Cirripectes sp. [Zanzibar brown]",
     "",
@@ -17904,6 +17925,13 @@
     1,
     []
   ],
+  "Diaphorodoris papillata": [
+    "Diaphorodoris papillata",
+    "",
+    "https://reeflifesurvey.com/species/diaphorodoris-papillata/",
+    1,
+    []
+  ],
   "Diaulula hispida": [
     "Diaulula hispida",
     "",
@@ -20056,6 +20084,13 @@
     "Elysia spp.",
     "",
     null,
+    1,
+    []
+  ],
+  "Elysia timida": [
+    "Elysia timida",
+    "Nudibranch",
+    "https://reeflifesurvey.com/species/elysia-timida/",
     1,
     []
   ],
@@ -24779,6 +24814,13 @@
       "https://images.reeflifesurvey.com/0/species_e0_5804399d8fa2c.w1000.h666.JPG"
     ]
   ],
+  "Goniodoridella picoensis": [
+    "Goniodoridella picoensis",
+    "",
+    "https://reeflifesurvey.com/species/goniodoridella-picoensis/",
+    1,
+    []
+  ],
   "Goniodoridella savignyi": [
     "Goniodoridella savignyi",
     "Savigny's nudibranch",
@@ -27699,6 +27741,13 @@
     [
       "https://images.reeflifesurvey.com/1/species_7f_627c6a76d5ef0.w1000.h666.JPG"
     ]
+  ],
+  "Herbstia condyliata": [
+    "Herbstia condyliata",
+    "",
+    "https://reeflifesurvey.com/species/herbstia-condyliata/",
+    1,
+    []
   ],
   "Herbstia parvifrons": [
     "Herbstia parvifrons",
@@ -43785,6 +43834,13 @@
       "https://images.reeflifesurvey.com/0/species_f1_5945caa658764.w1000.h666.JPG"
     ]
   ],
+  "Phyllidia flava": [
+    "Phyllidia flava",
+    "",
+    "https://reeflifesurvey.com/species/phyllidia-flava/",
+    1,
+    []
+  ],
   "Phyllidia marindica": [
     "Phyllidia marindica",
     "[a nudibranch]",
@@ -44179,6 +44235,13 @@
     "Pilumnus floridanus",
     "",
     "https://reeflifesurvey.com/species/pilumnus-floridanus/",
+    1,
+    []
+  ],
+  "Pilumnus hirtellus": [
+    "Pilumnus hirtellus",
+    "Bristly crab",
+    "https://reeflifesurvey.com/species/pilumnus-hirtellus/",
     1,
     []
   ],
@@ -46853,6 +46916,13 @@
     "Promachocrinus kerguelensis",
     "",
     "https://reeflifesurvey.com/species/promachocrinus-kerguelensis/",
+    1,
+    []
+  ],
+  "Prostheceraeus giesbrechtii": [
+    "Prostheceraeus giesbrechtii",
+    "",
+    "https://reeflifesurvey.com/species/prostheceraeus-giesbrechtii/",
     1,
     []
   ],
@@ -57203,6 +57273,13 @@
     [
       "https://images.reeflifesurvey.com/1/species_1f_5dd08a6668463.w1000.h666.jpg"
     ]
+  ],
+  "Thysanozoon cruciatum": [
+    "Thysanozoon cruciatum",
+    "Flatworm",
+    "https://reeflifesurvey.com/species/thysanozoon-cruciatum/",
+    1,
+    []
   ],
   "Thysanozoon flavotuberculatum": [
     "Thysanozoon flavotuberculatum",
