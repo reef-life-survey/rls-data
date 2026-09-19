@@ -6196,6 +6196,19 @@
       "https://images.reeflifesurvey.com/0/species_a4_579de99839efd.w1000.h666.jpg"
     ]
   ],
+  "Bodianus parrae": [
+    "Bodianus parrae",
+    "Creole wrasse",
+    "https://reeflifesurvey.com/species/bodianus-parrae/",
+    0,
+    [
+      "https://images.reeflifesurvey.com/0/species_3c_576c9f825d1ab.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_09_5829512b00fdd.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_09_576c9ffcdafca.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_71_5829512770441.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_01_576c9f8735cf4.w1000.h666.jpg"
+    ]
+  ],
   "Bodianus perditio": [
     "Bodianus perditio",
     "Golden-spot pigfish",
@@ -13536,19 +13549,6 @@
       "https://images.reeflifesurvey.com/0/species_62_570c23c692db4.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_54_570c23dd90298.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_55_570c23e2e174b.w1000.h666.jpg"
-    ]
-  ],
-  "Clepticus parrae": [
-    "Clepticus parrae",
-    "Creole Wrasse, Barracuda waitin boy",
-    "https://reeflifesurvey.com/species/clepticus-parrae/",
-    0,
-    [
-      "https://images.reeflifesurvey.com/0/species_3c_576c9f825d1ab.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_09_5829512b00fdd.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_09_576c9ffcdafca.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_71_5829512770441.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_01_576c9f8735cf4.w1000.h666.jpg"
     ]
   ],
   "Clibanarius aequabilis": [
@@ -37216,6 +37216,13 @@
     "",
     null,
     1,
+    []
+  ],
+  "Nerophis spp.": [
+    "Nerophis spp.",
+    "",
+    null,
+    2,
     []
   ],
   "Nesogobius greeni": [
