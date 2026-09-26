@@ -6620,6 +6620,13 @@
       "https://images.reeflifesurvey.com/0/species_a9_57d8e807b8c75.w1000.h666.jpg"
     ]
   ],
+  "Brachygenys chrysargyrea": [
+    "Brachygenys chrysargyrea",
+    "Smallmouth grunt",
+    "https://reeflifesurvey.com/species/brachygenys-chrysargyrea/",
+    0,
+    []
+  ],
   "Brachygenys chrysargyreum": [
     "Brachygenys chrysargyreum",
     "Smallmouth grunt",
@@ -7923,6 +7930,13 @@
       "https://images.reeflifesurvey.com/0/species_36_574abcc924534.w1000.h666.jpg"
     ]
   ],
+  "Calotrophon ostrearum": [
+    "Calotrophon ostrearum",
+    "",
+    "https://reeflifesurvey.com/species/calotrophon-ostrearum/",
+    1,
+    []
+  ],
   "Calpurnus verrucosus": [
     "Calpurnus verrucosus",
     "",
@@ -8557,6 +8571,13 @@
     0,
     []
   ],
+  "Caranx bartholomaei": [
+    "Caranx bartholomaei",
+    "Yellow Jack",
+    "https://reeflifesurvey.com/species/caranx-bartholomaei/",
+    0,
+    []
+  ],
   "Caranx caballus": [
     "Caranx caballus",
     "Green jack",
@@ -8672,6 +8693,13 @@
   ],
   "Caranx spp.": [
     "Caranx spp.",
+    "",
+    null,
+    0,
+    []
+  ],
+  "Carcharhinidae spp.": [
+    "Carcharhinidae spp.",
     "",
     null,
     0,
@@ -31004,6 +31032,13 @@
     1,
     []
   ],
+  "Lampasopsis thomae": [
+    "Lampasopsis thomae",
+    "Gastropod",
+    "https://reeflifesurvey.com/species/lampasopsis-thomae/",
+    1,
+    []
+  ],
   "Larabicus quadrilineatus": [
     "Larabicus quadrilineatus",
     "Fourline wrasse",
@@ -32397,6 +32432,13 @@
       "https://images.reeflifesurvey.com/0/species_75_57517041edc16.w1000.h666.jpg"
     ]
   ],
+  "Luria cinerea": [
+    "Luria cinerea",
+    "Atlantic grey cowrie",
+    "https://reeflifesurvey.com/species/luria-cinerea/",
+    1,
+    []
+  ],
   "Luria lurida": [
     "Luria lurida",
     "",
@@ -33078,6 +33120,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_28_57de4357df35e.w1000.h666.jpg"
     ]
+  ],
+  "Macrocypraea cervus": [
+    "Macrocypraea cervus",
+    "",
+    "https://reeflifesurvey.com/species/macrocypraea-cervus/",
+    1,
+    []
   ],
   "Macrocypraea spp.": [
     "Macrocypraea spp.",
@@ -36470,6 +36519,13 @@
     0,
     []
   ],
+  "Negaprion brevirostris": [
+    "Negaprion brevirostris",
+    "Lemon shark",
+    "https://reeflifesurvey.com/species/negaprion-brevirostris/",
+    0,
+    []
+  ],
   "Nelusetta ayraud": [
     "Nelusetta ayraud",
     "Chinaman leatherjacket",
@@ -36910,6 +36966,13 @@
     "Neoniphon spp.",
     "",
     null,
+    2,
+    []
+  ],
+  "Neoniphon vexillarius": [
+    "Neoniphon vexillarius",
+    "Dusky Squirrelfish",
+    "https://reeflifesurvey.com/species/neoniphon-vexillarius/",
     2,
     []
   ],
@@ -38312,6 +38375,13 @@
     [
       "https://images.reeflifesurvey.com/1/species_67_6347a4d5d6a9e.w1000.h666.JPG"
     ]
+  ],
+  "Oliva reticularis": [
+    "Oliva reticularis",
+    "",
+    "https://reeflifesurvey.com/species/oliva-reticularis/",
+    1,
+    []
   ],
   "Olivella spp.": [
     "Olivella spp.",
@@ -43036,6 +43106,15 @@
     [
       "https://images.reeflifesurvey.com/1/species_39_5ee6b5ca63e8a.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_3f_57e36becb8808.w1000.h666.jpg"
+    ]
+  ],
+  "Periclimenes yucatanicus": [
+    "Periclimenes yucatanicus",
+    "",
+    "https://reeflifesurvey.com/species/periclimenes-yucatanicus/",
+    1,
+    [
+      "https://images.reeflifesurvey.com/0/species_f4_57e36c38c31d5.w1000.h666.jpg"
     ]
   ],
   "Peristernia australiensis": [
@@ -50102,6 +50181,13 @@
     "Rypticus spp.",
     "",
     null,
+    2,
+    []
+  ],
+  "Rypticus subbifrenatus": [
+    "Rypticus subbifrenatus",
+    "Spotted soapfish",
+    "https://reeflifesurvey.com/species/rypticus-subbifrenatus/",
     2,
     []
   ],
@@ -59112,6 +59198,13 @@
     "Turris spectabilis",
     "",
     "https://reeflifesurvey.com/species/turris-spectabilis/",
+    1,
+    []
+  ],
+  "Turritellidae spp.": [
+    "Turritellidae spp.",
+    "",
+    null,
     1,
     []
   ],

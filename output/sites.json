@@ -15706,7 +15706,7 @@
       "West Washer Women (5P1)",
       -81.59,
       24.55,
-      2
+      4
     ],
     [
       "FLO19",
@@ -15717,7 +15717,7 @@
       "Wonderland (5P5)",
       -81.5,
       24.56,
-      2
+      4
     ],
     [
       "FLO2",
@@ -15728,7 +15728,7 @@
       "Western Sambo Deep (5D4)",
       -81.72,
       24.48,
-      2
+      4
     ],
     [
       "FLO20",
@@ -15739,7 +15739,7 @@
       "Western Sambo Shallow (5S4)",
       -81.72,
       24.48,
-      2
+      4
     ],
     [
       "FLO21",
@@ -15750,7 +15750,7 @@
       "Rock Key Shallow (5S5)",
       -81.86,
       24.45,
-      2
+      4
     ],
     [
       "FLO22",
@@ -15827,7 +15827,7 @@
       "Sombrero Deep (5D1)",
       -81.11,
       24.62,
-      2
+      4
     ],
     [
       "FLO29",
@@ -15849,7 +15849,7 @@
       "Rock Key Deep (5D5)",
       -81.86,
       24.45,
-      2
+      4
     ],
     [
       "FLO31",
@@ -15871,7 +15871,7 @@
       "Tennessee Deep (7D2)",
       -80.76,
       24.75,
-      2
+      4
     ],
     [
       "FLO33",
@@ -15882,7 +15882,7 @@
       "West Turtle Shoal (7P1)",
       -80.97,
       24.7,
-      2
+      4
     ],
     [
       "FLO34",
@@ -15904,7 +15904,7 @@
       "Rawa Reef (7P3)",
       -80.94,
       24.72,
-      2
+      4
     ],
     [
       "FLO36",
@@ -15915,7 +15915,7 @@
       "Thor (7P4)",
       -81.05,
       24.67,
-      2
+      4
     ],
     [
       "FLO37",
@@ -15926,7 +15926,7 @@
       "Tennessee Shallow (7S2)",
       -80.78,
       24.75,
-      2
+      4
     ],
     [
       "FLO38",
@@ -15959,7 +15959,7 @@
       "Sombrero Light W Shallow (5S1)",
       -81.11,
       24.63,
-      5
+      7
     ],
     [
       "FLO40",
@@ -16003,7 +16003,7 @@
       "Turtle (9P1)",
       -80.22,
       25.29,
-      2
+      4
     ],
     [
       "FLO44",
@@ -16047,7 +16047,7 @@
       "Two Patches (9P5)",
       -80.44,
       25.02,
-      2
+      4
     ],
     [
       "FLO48",
@@ -16058,7 +16058,7 @@
       "Sand Key Shallow (2S1)",
       -81.88,
       24.45,
-      2
+      4
     ],
     [
       "FLO49",
@@ -16069,7 +16069,7 @@
       "Sand Key Deep (2D1)",
       -81.88,
       24.45,
-      2
+      4
     ],
     [
       "FLO5",
@@ -16102,7 +16102,7 @@
       "Red Dun Reef (5P6)",
       -81.66,
       24.52,
-      2
+      4
     ],
     [
       "FLO52",
@@ -16113,7 +16113,7 @@
       "Smith Shoal (2P1)",
       -81.92,
       24.72,
-      2
+      4
     ],
     [
       "FLO53",
@@ -16135,7 +16135,7 @@
       "Porter Patch (9P3)",
       -80.32,
       25.1,
-      2
+      4
     ],
     [
       "FLO55",
@@ -16278,7 +16278,7 @@
       "Palm Beach 2",
       -80.02,
       26.68,
-      2
+      4
     ],
     [
       "FLO67",
@@ -16289,7 +16289,7 @@
       "Palm Beach 3",
       -80.02,
       26.71,
-      2
+      4
     ],
     [
       "FLO68",
@@ -16300,7 +16300,7 @@
       "Palm Beach 4",
       -80.04,
       26.49,
-      2
+      4
     ],
     [
       "FLO69",
@@ -16311,7 +16311,7 @@
       "Palm Beach 5",
       -80.05,
       26.44,
-      2
+      4
     ],
     [
       "FLO7",
@@ -16402,6 +16402,50 @@
       5
     ],
     [
+      "FLO86",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Moser Channel",
+      -81.17,
+      24.69,
+      2
+    ],
+    [
+      "FLO87",
+      "United States",
+      "Tropical Atlantic",
+      "Miami - Palm Beach County",
+      "Floridian",
+      "Palm Beach 1",
+      -80.03,
+      26.71,
+      2
+    ],
+    [
+      "FLO88",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Rattlesnake",
+      -80.35,
+      25.17,
+      2
+    ],
+    [
+      "FLO89",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Sawyer Key",
+      -81.55,
+      24.78,
+      2
+    ],
+    [
       "FLO9",
       "United States",
       "Tropical Atlantic",
@@ -16411,6 +16455,17 @@
       -81.05,
       24.68,
       4
+    ],
+    [
+      "FLO90",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Western Head (5P2)",
+      -81.81,
+      24.5,
+      2
     ],
     [
       "FLORES1",
@@ -28346,6 +28401,160 @@
       -82.21,
       24.48,
       2
+    ],
+    [
+      "MRQ25-109",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Half Good",
+      -82.04,
+      24.48,
+      1
+    ],
+    [
+      "MRQ25-11",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Funky Town",
+      -82.44,
+      24.43,
+      1
+    ],
+    [
+      "MRQ25-17",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Snap City",
+      -82.3,
+      24.5,
+      1
+    ],
+    [
+      "MRQ25-18",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Megalopolis",
+      -82.32,
+      24.5,
+      1
+    ],
+    [
+      "MRQ25-22",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Big Eye",
+      -82.14,
+      24.45,
+      1
+    ],
+    [
+      "MRQ25-27",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Suddenly Good",
+      -82.17,
+      24.46,
+      1
+    ],
+    [
+      "MRQ25-31",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Ruby Oasis",
+      -82.09,
+      24.48,
+      1
+    ],
+    [
+      "MRQ25-33",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Hammie",
+      -82.04,
+      24.47,
+      1
+    ],
+    [
+      "MRQ25-40",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Average Joe",
+      -82.21,
+      24.48,
+      1
+    ],
+    [
+      "MRQ25-41",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Mantislandia",
+      -82.21,
+      24.46,
+      1
+    ],
+    [
+      "MRQ25-43",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Barreled",
+      -82.1,
+      24.45,
+      1
+    ],
+    [
+      "MRQ25-44",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Wrasseland",
+      -82.17,
+      24.47,
+      1
+    ],
+    [
+      "MRQ25-47",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Twilight",
+      -82.15,
+      24.48,
+      1
+    ],
+    [
+      "MRQ25-57",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Stalactite",
+      -82.3,
+      24.5,
+      1
     ],
     [
       "MUR1",
