@@ -59,15 +59,10 @@ jobs:
             | jq \
             > output/species.json
 
-      # Extra debugging support, as some of species.json originates from raw_species.csv.
-      # Removing the first column (FID) because it changes on every request.
-      - name: Download raw_species.csv
-        run: |
-          curl -sS --compressed --fail \
-            "https://geoserver-123.aodn.org.au/geoserver/imos/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=imos%3Aep_species_list_data&outputFormat=csv" \
-            | cut -d, -f2- \
-            | sort -n \
-            > output/raw_species.csv
+      # Extra debugging support, as some of species.json originates from raw_species.csv
+      # the FID is now the species_id from the S3 source, rather than the changing FID from geoserver
+      - name: Copy raw_species.csv
+        run: sort -n data/rls-surveys/species_list.csv > output/raw_species.csv
 
       - name: Create text output files
         run: poetry run rls-data create-api-jsons output/species.json data/rls-surveys/ output-tmp/
