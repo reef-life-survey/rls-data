@@ -32,7 +32,8 @@ def download_survey_data(survey_data_dir: Path) -> None:
             (f"{S3_ENDPOINTS_URL}/{endpoint_name}", survey_data_dir / file_name)
             for file_name, endpoint_name in SURVEY_DATA_FILES.items()
         ],
-        # obs are in one file now instead of per-method from geoserver, so allowing more time for this to complete
+        # Observations are in one file now instead of per method from geoserver, so
+        # allow more time for the download to complete.
         timeout=timedelta(minutes=15).total_seconds(),
     )
     for _ in results:

@@ -26,18 +26,19 @@ class _DataTypeCode:
     BOTH = 2
 
 
-# methods included in the previous geoserver layers (0, 1, 2) are included, 10 also includes some data that is currently included
-# but wouldn't be if filtering for the original 0/1/2 methods. 
-# todo: chekc that this is actually right, but is like for like with the current data.
+# Methods 0, 1, and 2 match the previous geoserver layers. Method 10 adds some data that
+# was included before but wouldn't be if filtering for only the original methods.
+# TODO: check that this is actually right (it's like for like with the current data).
 _INCLUDED_METHOD_IDS = {0, 1, 2, 10}
 
 
 def _read_species_list(species_list_path: Path) -> pd.DataFrame:
     """
-    Read the species list, indexed by species_id that maps to the new species list from S3 instead of geoserver.
-    this is a bit different due to species data no longer existing within the obs data, and is split out entirely now.
+    Read the S3 species list, indexed by recorded species ID.
 
-    obs that are recorded against supersceded ids are mapped to the current species_id (when listed in the species list)
+    Unlike the geoserver data, species details are no longer part of the observations,
+    so they're read from this separate list. Observations recorded against superseded
+    IDs are mapped to the current species_id (when listed in the species list).
     """
     species_list = pd.read_csv(
         species_list_path,
@@ -61,7 +62,9 @@ def _read_survey_data(survey_data_dir: Path) -> pd.DataFrame:
     """
     Read survey data from the files in survey_data_dir.
 
-    This assumes the files were downloaded by rls.download_survey_data. observations are now joined from the species list data to get name/class/family. missing/unmapped obs are dropped.
+    This assumes the files were downloaded by rls.download_survey_data. Observations
+    are joined to the species list to get the name, class, and family. Observations of
+    unknown species are dropped.
     """
     species_list = _read_species_list(survey_data_dir / "species_list.csv")
     _logger.info("Read %d species IDs from the species list", len(species_list))
