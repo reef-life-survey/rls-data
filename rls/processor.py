@@ -26,46 +26,82 @@ class _DataTypeCode:
     BOTH = 2
 
 
-def _read_survey_data(
-    survey_data_dir: Path, num_expected_survey_files: int = 4
-) -> pd.DataFrame:
+# Methods 0, 1, and 2 match the previous geoserver layers. Method 10 adds some data that
+# was included before but wouldn't be if filtering for only the original methods.
+# TODO: check that this is actually right (it's like for like with the current data).
+_INCLUDED_METHOD_IDS = {0, 1, 2, 10}
+
+
+def _read_species_list(species_list_path: Path) -> pd.DataFrame:
+    """
+    Read the S3 species list, indexed by recorded species ID.
+
+    Unlike the geoserver data, species details are no longer part of the observations,
+    so they're read from this separate list. Observations recorded against superseded
+    IDs are mapped to the current species_id (when listed in the species list).
+    """
+    species_list = pd.read_csv(
+        species_list_path,
+        usecols=["species_id", "species_name", "class", "family", "superseded_ids"],
+        dtype={"superseded_ids": str},
+    )
+    superseded = species_list.dropna(subset=["superseded_ids"]).assign(
+        recorded_id=lambda df: df["superseded_ids"].str.split(",")
+    )
+    superseded = superseded.explode("recorded_id")
+    superseded["recorded_id"] = superseded["recorded_id"].str.strip().astype(int)
+    current = species_list.assign(recorded_id=species_list["species_id"])
+    # current ids take precedence if current + supersceded exist at the same time
+    id_map = pd.concat([current, superseded], ignore_index=True).drop_duplicates(
+        "recorded_id"
+    )
+    return id_map.set_index("recorded_id")[["species_name", "class", "family"]]
+
+
+def _read_survey_data(survey_data_dir: Path) -> pd.DataFrame:
     """
     Read survey data from the files in survey_data_dir.
 
-    This assumes the files were downloaded by rls.download_survey_data.
+    This assumes the files were downloaded by rls.download_survey_data. Observations
+    are joined to the species list to get the name, class, and family. Observations of
+    unknown species are dropped.
     """
-    survey_file_paths = list(survey_data_dir.glob("*.csv"))
-    if len(survey_file_paths) != num_expected_survey_files:
-        raise ValueError(
-            f"Expected {num_expected_survey_files} survey data files, "
-            f"but found {len(survey_file_paths)}."
+    species_list = _read_species_list(survey_data_dir / "species_list.csv")
+    _logger.info("Read %d species IDs from the species list", len(species_list))
+    observations = pd.read_csv(
+        survey_data_dir / "observations.csv",
+        usecols=[
+            "species_id",
+            "survey_id",
+            "country",
+            "ecoregion",
+            "realm",
+            "location",
+            "site_code",
+            "site_name",
+            "program",
+            "method_id",
+            "latitude",
+            "longitude",
+            "total",
+        ],
+    )
+    _logger.info("Read %d observation rows", len(observations))
+    observations = observations[observations["method_id"].isin(_INCLUDED_METHOD_IDS)]
+    survey_data = observations.drop(columns=["method_id"]).join(
+        species_list, on="species_id", how="left"
+    )
+    unknown_species = survey_data["species_name"].isna()
+    if unknown_species.any():
+        _logger.warning(
+            "Dropping %d observation rows of %d species IDs that aren't in the "
+            "species list: %s",
+            unknown_species.sum(),
+            survey_data.loc[unknown_species, "species_id"].nunique(),
+            sorted(survey_data.loc[unknown_species, "species_id"].unique().tolist()),
         )
-
-    subset_dfs = []
-    for data_file_path in survey_file_paths:
-        subset_df = pd.read_csv(
-            data_file_path,
-            usecols=[
-                "survey_id",
-                "country",
-                "ecoregion",
-                "realm",
-                "location",
-                "site_code",
-                "site_name",
-                "program",
-                "class",
-                "family",
-                "species_name",
-                "latitude",
-                "longitude",
-                "total",
-            ],
-        )
-        _logger.info("Read %d rows from %s", len(subset_df), data_file_path)
-        subset_dfs.append(subset_df)
-    survey_data = pd.concat(subset_dfs, ignore_index=True)
-    survey_data.dropna(subset=["species_name"], inplace=True)
+        survey_data = survey_data[~unknown_species]
+    survey_data = survey_data.drop(columns=["species_id"])
     survey_data.sort_values(["survey_id", "species_name"], inplace=True)
     survey_data["data_type_code"] = None
     survey_data.loc[
@@ -84,7 +120,7 @@ def _read_survey_data(
     survey_data.loc[
         survey_data["data_type_code"].isna(), "data_type_code"
     ] = _DataTypeCode.M2
-    return survey_data
+    return survey_data.reset_index(drop=True)
 
 
 def _write_json(out_path: Path, data: Any, data_desc: str) -> None:

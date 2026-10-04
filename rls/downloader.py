@@ -10,39 +10,45 @@ from .util import verify_empty_dir
 
 _logger = logging.getLogger("rls.processor")
 
+# public AODN/NRMN endpoints
+S3_ENDPOINTS_URL = (
+    "https://nrmn-prod-shared.s3.ap-southeast-2.amazonaws.com/"
+    "endpoints/ncbQK0mp5Td7RgpmOGZI"
+)
+
+# local file name: s3 source filename
+SURVEY_DATA_FILES = {
+    "species_list.csv": "ep_species_list.csv",
+    "observations.csv": "ep_species_survey_observation.csv",
+}
+
 
 def download_survey_data(survey_data_dir: Path) -> None:
     """Download RLS CSV data files to the given directory, creating it if needed."""
     verify_empty_dir(survey_data_dir)
-    results = ThreadPoolExecutor(max_workers=3).map(
+    results = ThreadPoolExecutor(max_workers=len(SURVEY_DATA_FILES)).map(
         _download_survey_data_file,
         [
-            (
-                "https://geoserver-portal.aodn.org.au/geoserver/ows?"
-                "SERVICE=WFS&outputFormat=csv&REQUEST=GetFeature&"
-                f"VERSION=1.0.0&typeName=imos:ep_{data_type}_public_data",
-                survey_data_dir / f"{data_type}.csv",
-            )
-            for data_type in (
-                "m0_off_transect_sighting",
-                "m1",
-                "m2_cryptic_fish",
-                "m2_inverts",
-            )
+            (f"{S3_ENDPOINTS_URL}/{endpoint_name}", survey_data_dir / file_name)
+            for file_name, endpoint_name in SURVEY_DATA_FILES.items()
         ],
-        # Five minutes should be plenty of time to download the largest file (m1).
-        timeout=300,
+        # Observations are in one file now instead of per method from geoserver, so
+        # allow more time for the download to complete.
+        timeout=timedelta(minutes=15).total_seconds(),
     )
     for _ in results:
         pass
 
 
 def _download_survey_data_file(url_and_out_path: tuple[str, Path]) -> None:
-    """Download a single survey data file."""
+    """Download a single survey data file, streaming it to disk."""
     url, out_path = url_and_out_path
     _logger.info("Downloading %s to %s", url, out_path)
-    response = requests.get(url, timeout=timedelta(minutes=10).total_seconds())
-    response.raise_for_status()
-    with out_path.open("w") as fp:
-        fp.write(response.text)
+    with requests.get(
+        url, stream=True, timeout=timedelta(minutes=10).total_seconds()
+    ) as response:
+        response.raise_for_status()
+        with out_path.open("wb") as fp:
+            for chunk in response.iter_content(chunk_size=1 << 20):
+                fp.write(chunk)
     _logger.info("Saved %s", out_path)
