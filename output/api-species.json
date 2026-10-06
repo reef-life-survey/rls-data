@@ -2735,6 +2735,13 @@
     2,
     []
   ],
+  "Anoplarchus purpurescens": [
+    "Anoplarchus purpurescens",
+    "High Coskscomb",
+    "https://reeflifesurvey.com/species/anoplarchus-purpurescens/",
+    2,
+    []
+  ],
   "Anoplocapros amygdaloides": [
     "Anoplocapros amygdaloides",
     "Western smooth boxfish",
@@ -16235,6 +16242,7 @@
     "https://reeflifesurvey.com/species/dendrodoris-krusensternii/",
     1,
     [
+      "https://images.reeflifesurvey.com/0/species_7f_5744ebe92092e.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_aa_5744ee7b570d0.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_74_5746184a50f04.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_9d_57da5b6a22470.w1000.h666.jpg",

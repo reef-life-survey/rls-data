@@ -1140,7 +1140,7 @@
     "family": "Chaenopsidae",
     "genus": "Acanthemblemaria",
     "max_length_cm": 5,
-    "frequency": 74.1936,
+    "frequency": 74.1935,
     "abundance": 90.0444,
     "depth_range": "5-31m",
     "min_sea_temperature": 26.716,
@@ -2009,7 +2009,14 @@
   {
     "scientific_name": "Acanthodoris lutea",
     "slug": "acanthodoris-lutea",
-    "main_common_name": "Sandalwood dorid"
+    "main_common_name": "Sandalwood dorid",
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "family": "Acanthodorididae",
+    "genus": "Acanthodoris",
+    "methods": [
+      2
+    ]
   },
   {
     "scientific_name": "Acanthodoris nanaimoensis",
@@ -2581,7 +2588,7 @@
     "genus": "Acanthurus",
     "description": "Olive-brown body, oblique blue stripe from snout to eye, an arc of sort blue stripe behind rear edge of eye, and black rear edge of gill cover. Outer tail margin yellow, rather than white/blue as in <a href=\"https://reeflifesurvey.com/species/acanthurus-tractus\"><em>A. tractus</em></a>, with which this species was previously grouped. This species only southern Atlantic, and not known from the Caribbean.",
     "max_length_cm": 38,
-    "frequency": 23.6051,
+    "frequency": 23.6052,
     "abundance": 14.5048,
     "depth_range": "2-40m",
     "min_sea_temperature": 22.251,
@@ -5553,7 +5560,7 @@
     "genus": "Aipysurus",
     "max_length_cm": 140,
     "frequency": 2.6682,
-    "abundance": 1.1562,
+    "abundance": 1.1563,
     "similar_species_slugs": [
       "acalyptophis-peronii"
     ],
@@ -9942,7 +9949,7 @@
     "description": "Male dark and elongate with blueish/green scribbles on head, similarly coloured speckles on body and blue lines on tail creating a forked appearance; closely resemble male <a href=\"https://reeflifesurvey.com/species/anampses-geographicus\"><em>A. geographicus</em> (Scribbled Wrasse)</a>. Females more common, and have white spots arranged in rows on a dark body, a yellow tail and ocelli at rear of dorsal and anal fins; similar <a href=\"https://reeflifesurvey.com/species/anampses-melanurus\"><em>A. melanurus</em> (Blacktail Wrasse)</a>, has a black rear margin on tail.",
     "max_length_cm": 22,
     "frequency": 8.1244,
-    "abundance": 2.1562,
+    "abundance": 2.1563,
     "depth_range": "3-60m",
     "min_sea_temperature": 21.425,
     "max_sea_temperature": 33.011,
@@ -10396,7 +10403,7 @@
     "class": "Malacostraca",
     "family": "Palaemonidae",
     "genus": "Ancylocaris",
-    "frequency": 0.7812,
+    "frequency": 0.7813,
     "abundance": 1.75,
     "methods": [
       2
@@ -10866,7 +10873,7 @@
     "description": "Bright yellow, high body with a steep head profile, 5-7 bright blue stripes along body, oblique black/brown bar from nape though eye and another from start of dorsal fin to base of pectoral fin. Juveniles white with a yellow head and back, large round black spot on tail base, and two black stripes along body, each with a blue line above and below. Often found near walls and drop offs.",
     "max_length_cm": 31,
     "frequency": 14.653,
-    "abundance": 6.7812,
+    "abundance": 6.7813,
     "depth_range": "5-25m",
     "min_sea_temperature": 21.247,
     "max_sea_temperature": 30.22575,
@@ -11060,7 +11067,15 @@
   {
     "scientific_name": "Anoplarchus purpurescens",
     "slug": "anoplarchus-purpurescens",
-    "main_common_name": "High Coskscomb"
+    "main_common_name": "High Coskscomb",
+    "phylum": "Chordata",
+    "class": "Teleostei",
+    "family": "Stichaeidae",
+    "genus": "Anoplarchus",
+    "methods": [
+      1,
+      2
+    ]
   },
   {
     "scientific_name": "Anoplocapros amygdaloides",
@@ -11914,7 +11929,7 @@
     "genus": "Aphareus",
     "description": "Silver body with dark vertical bars at front and back of operculum, dark upper lip, deeply forked tail, red eye, and often yellowish hue to fins. A solitary hunter along the edges of coral reefs. Another similar jobfish, <a href=\"https://reeflifesurvey.com/species/aphareus-rutilans\"><em>A. rutilans</em></a> has reddish hue and deeper split in tail fork, but is found much deeper, tending not to be encountered by divers.",
     "max_length_cm": 70,
-    "frequency": 17.1652,
+    "frequency": 17.1651,
     "abundance": 1.8336,
     "depth_range": "1-122m",
     "min_sea_temperature": 23.097,
@@ -13138,7 +13153,7 @@
     "genus": "Apogon",
     "description": "Dark red/orange with dark tips on dorsal, anal and tail fins. Hides in caves and under ledges during the day, feeding in the open at night.",
     "max_length_cm": 9,
-    "frequency": 67.6191,
+    "frequency": 67.619,
     "abundance": 1001.1,
     "depth_range": "3-46m",
     "min_sea_temperature": 20.449,
@@ -16643,7 +16658,7 @@
     "class": "Holothuroidea",
     "family": "Cucumariidae",
     "genus": "Aslia",
-    "frequency": 38.983,
+    "frequency": 38.9831,
     "abundance": 223.158,
     "photos": [
       {
@@ -26381,7 +26396,7 @@
     "genus": "Calliclinus",
     "description": "A series of dark irregular bands on body, which may be broken into saddles on back and blotches on sides, a brown stripe along mid side, the first two rays of the dorsal fin protrude well beyond the membrane, which for the first two spans is white, and a white triangular marking extending behind and below eye with dark brown lines on either side.",
     "max_length_cm": 12,
-    "frequency": 68.421,
+    "frequency": 68.4211,
     "abundance": 3,
     "depth_range": "0-3m",
     "min_sea_temperature": 8.20125,
@@ -28726,7 +28741,7 @@
     "genus": "Canthigaster",
     "description": "<p>White spots cover the body up to the caudal fin, and blue striations are present around the eye and dorsal profile. Black spot below dorsal fin base, and body has distinctive pale-white underside. Distributed in the Indian Ocean from Oman to Adaman Sea, and formerly thought to be <em>C. solandri.&nbsp;</em>Similar species <em>C. solandri</em> is restricted to the western and central Pacific, and <a href=\"https://reeflifesurvey.com/species/canthigaster-papua/\"><em>C. papua</em></a> is found in Indonesia, the Phillipines, and Papua New Guinea.&nbsp;</p>",
     "frequency": 50,
-    "abundance": 1.5312,
+    "abundance": 1.5313,
     "confidence": "high confidence",
     "threat_status": "Critically Endangered",
     "editor_name": "Jo Schmid",
@@ -30934,7 +30949,7 @@
     "family": "Cheloniidae",
     "genus": "Caretta",
     "description": "<p>Dark upper shell, pale belly, large high head, deep body, five large plates along side of back, three scales behind eye. Adults live for about 50 years.</p>",
-    "max_length_cm": 2100,
+    "max_length_cm": 210,
     "frequency": 0.833,
     "abundance": 1.0357,
     "depth_range": "0-61m",
@@ -32676,7 +32691,7 @@
     "genus": "Centrostephanus",
     "description": "Similar to <em>C. rodgersii</em>, except the spines are slate-grey in colour as opposed to turquoise and thinner spines relative to their length. This species also tends to prefer concealing itself in crevices and gutters more than its eastern counterpart.",
     "max_length_cm": 9,
-    "frequency": 33.8597,
+    "frequency": 33.8596,
     "abundance": 7.9558,
     "depth_range": "0-104m",
     "min_sea_temperature": 14.8775,
@@ -39649,7 +39664,7 @@
     "genus": "Chelidonura",
     "max_length_cm": 8,
     "frequency": 3.68,
-    "abundance": 1.4062,
+    "abundance": 1.4063,
     "threat_status": "Not Evaluated",
     "distributions": [
       "Temperate Australasia",
@@ -42336,7 +42351,7 @@
     "description": "Rounded body with bright orange and white bars separated by blue lines. White bars grading to black bars at rear, pale tailfin often with a red rear margin, yellow pectoral fin, and teeth protruding from mouth. Swims in and out of caves.",
     "max_length_cm": 30,
     "frequency": 22.9462,
-    "abundance": 2.1612,
+    "abundance": 2.1613,
     "depth_range": "5-35 m",
     "min_sea_temperature": 21.979,
     "max_sea_temperature": 30.402,
@@ -43637,7 +43652,7 @@
     "family": "Pomacentridae",
     "genus": "Chromis",
     "max_length_cm": 12,
-    "frequency": 61.017,
+    "frequency": 61.0169,
     "abundance": 58.7454,
     "photos": [
       {
@@ -43800,7 +43815,7 @@
     "genus": "Chromis",
     "max_length_cm": 17,
     "frequency": 64,
-    "abundance": 47.8809,
+    "abundance": 47.881,
     "photos": [
       {
         "photographer": "Graham Edgar",
@@ -46576,7 +46591,7 @@
     "genus": "Cirrhilabrus",
     "description": "Pair of stripes from behind eye, the first running along the base of dorsal fin to tail, the second slightly further down the body and stopping before rear of dorsal, a third stripe connecting to second stripe at gill cover then curves down behind pectoral fin and runs along mid body to tail fin. In males stripes are magenta and paired with a blue stripe, and in females stripes are thinner, and more red. Back brown and underside pale below bottom line. Juveniles with dark spot on upper tail base. Generally more shy and secretive than other <em>Cirrhilabrus</em> species, more closely associated with the substrate.",
     "max_length_cm": 12,
-    "frequency": 13.2812,
+    "frequency": 13.2813,
     "abundance": 14.5229,
     "depth_range": "7-55m",
     "min_sea_temperature": 19.8425,
@@ -47665,7 +47680,7 @@
     "genus": "Cirripectes",
     "description": "Blunt head and relatively heavy body. Dark brown colouration with fine red spots covering head and body (often not visible in the field), fringe-like line of cirri on nape and eye dark. Like most <em>Cirripectes</em> species, sits motionless on reef until approached then rapidly darts for cover making identification difficult.",
     "max_length_cm": 12,
-    "frequency": 13.4215,
+    "frequency": 13.4216,
     "abundance": 2.0798,
     "depth_range": "0-16m",
     "min_sea_temperature": 19.072,
@@ -49380,7 +49395,7 @@
     "class": "Crinoidea",
     "family": "Comatulidae",
     "genus": "Comanthus",
-    "frequency": 5.1562,
+    "frequency": 5.1563,
     "abundance": 3.9672,
     "methods": [
       2
@@ -49624,7 +49639,7 @@
     "family": "Comasteridae",
     "genus": "Comatella",
     "frequency": 4.5161,
-    "abundance": 7.7812,
+    "abundance": 7.7813,
     "methods": [
       2
     ]
@@ -55734,7 +55749,7 @@
     "genus": "Ctenochaetus",
     "description": "Brown body with pale lines, blue ring around eye, pale spots on head and chest, lunate tail and dark spots above and below tail base. Blue eye best distinguishes it from similar <a href=\"https://reeflifesurvey.com/species/ctenochaetus-striatus\"><em>C. striatus</em> (Lined Bristletooth)</a><em>, <a href=\"https://reeflifesurvey.com/species/ctenochaetus-cyanocheilus\">C. cyanocheilus</a></em> (Yelloweye Bristletooth)<em>, <a href=\"https://reeflifesurvey.com/species/acanthurus-nigrofuscus\">Acanthurus nigrofuscus</a></em> (Dusky Surgeonfish) and <a href=\"https://reeflifesurvey.com/species/acanthurus-nigroris\"><em>A. nigroris </em>(Greyhead Surgeonfish)</a>. Very common.",
     "max_length_cm": 22,
-    "frequency": 32.0915,
+    "frequency": 32.0914,
     "abundance": 9.9902,
     "depth_range": "8-53 m",
     "min_sea_temperature": 21.979,
@@ -58605,7 +58620,7 @@
     "description": "Black and white bars of near equal size and white tail. High body with a rounded head. Similar <em>D. melanurus</em> (Blacktail Humbug) has black tail, and <em>Chrysiptera tricincta</em> (Threeband Demoiselle) has white on pelvic fin. Lives in small aggregations above staghorn coral in lagoons.",
     "max_length_cm": 10,
     "frequency": 18.5986,
-    "abundance": 38.9978,
+    "abundance": 38.9979,
     "depth_range": "0-20m",
     "min_sea_temperature": 19.131,
     "max_sea_temperature": 31.137,
@@ -59579,6 +59594,7 @@
     "slug": "dendrodoris-krusensternii",
     "main_common_name": "Krusensterns dendrodoris",
     "other_common_names": [
+      "Gunnamatta Dendrodoris",
       "nudibranch"
     ],
     "superseded_names": [
@@ -59606,6 +59622,13 @@
       "Tropical Indo-Pacific"
     ],
     "photos": [
+      {
+        "photographer": "Tom Davis",
+        "location": "NSW, Australia",
+        "large_url": "https://images.reeflifesurvey.com/0/species_7f_5744ebe92092e.w1000.h666.JPG",
+        "medium_url": "https://images.reeflifesurvey.com/0/species_7f_5744ebe92092e.w400.h266.JPG",
+        "small_url": "https://images.reeflifesurvey.com/0/species_7f_5744ebe92092e.w130.h87.JPG"
+      },
       {
         "photographer": "Nicola Davis",
         "location": "NSW, Australia",
@@ -65086,7 +65109,7 @@
     "genus": "Echinostrephus",
     "description": "Please see the page for <a href=\"https://reeflifesurvey.com/species/echinostrephus-aciculatus\"><em>E. aciculatus</em></a> for information relating to both these species.",
     "frequency": 5.6452,
-    "abundance": 37.7161,
+    "abundance": 37.716,
     "min_sea_temperature": 24.931,
     "max_sea_temperature": 30.7875,
     "confidence": "high confidence",
@@ -67036,7 +67059,7 @@
     "genus": "Elacatinus",
     "max_length_cm": 4,
     "frequency": 36.8421,
-    "abundance": 3.5312,
+    "abundance": 3.5313,
     "similar_species_slugs": [
       "elacatinus-oceanops",
       "elacatinus-prochilos"
@@ -75348,7 +75371,7 @@
     "family": "Gobiidae",
     "genus": "Eviota",
     "description": "<p>Originally described from Nuusafee Island, Samoa, this species is a part of the <em>Eviota guttata</em> complex including <a href=\"https://reeflifesurvey.com/species/eviota-guttata/\"><em>E. guttata</em></a>, <em><a href=\"https://reeflifesurvey.com/species/eviota-teresae/\">E. teresae</a></em>, and <a href=\"https://reeflifesurvey.com/species/eviota-albolineata/\"><em>E. albolineata</em></a>. Body with a series of taller than wide red rectangular blocks separated by yellow or white bars less than pupil diameter. Iris is red with gold spokes extending out from pupil and occaisional mottling. Red interorbital spot is connected to two larger spots behind each eye, while these are distinctly separate in&nbsp;<em>E. teresae</em> and <em>E. guttata.</em> Red stripe extending behind each eye is partially complete, however is incomplete in <em>E. guttata</em> and <em>E. teresae</em>.&nbsp;</p>",
-    "frequency": 49.2064,
+    "frequency": 49.2063,
     "abundance": 23.4976,
     "confidence": "high confidence",
     "threat_status": "Not Evaluated",
@@ -77858,7 +77881,7 @@
     "genus": "Fromia",
     "max_length_cm": 7,
     "frequency": 7.367,
-    "abundance": 1.1062,
+    "abundance": 1.1063,
     "min_sea_temperature": 21.196,
     "max_sea_temperature": 30.7682,
     "confidence": "high confidence",
@@ -91288,7 +91311,7 @@
     "family": "Labridae",
     "genus": "Halichoeres",
     "max_length_cm": 14,
-    "frequency": 52.3809,
+    "frequency": 52.381,
     "abundance": 144.636,
     "photos": [
       {
@@ -91834,7 +91857,7 @@
     "genus": "Haliotis",
     "description": "Endemic to South Africa. The largest and most abundant abalone<em> </em>species in this area.",
     "frequency": 45.4545,
-    "abundance": 4.4062,
+    "abundance": 4.4063,
     "depth_range": "0-10m",
     "min_sea_temperature": 14.939,
     "max_sea_temperature": 20.3664,
@@ -93226,7 +93249,7 @@
     "class": "Echinoidea",
     "family": "Echinometridae",
     "genus": "Heliocidaris",
-    "frequency": 47.6191,
+    "frequency": 47.619,
     "abundance": 77.8,
     "photos": [
       {
@@ -95460,7 +95483,7 @@
     "genus": "Heteroclinus",
     "max_length_cm": 6,
     "frequency": 4.2929,
-    "abundance": 1.4062,
+    "abundance": 1.4063,
     "similar_species_slugs": [
       "heteroclinus-adelaidae"
     ],
@@ -97454,7 +97477,7 @@
     "genus": "Hippocampus",
     "description": "Variable body colour, (usually yellow or yellowish but can be black or brown) but with numerous very fine dark spots. Adults in pairs found in seagrass and algae areas of estuaries, often with drifting Sargassum up to 20km from shore. Known as <em>H. taeniopterus</em> in many databases. <em>H. kuda </em>may contain up to 10 distinct species.",
     "max_length_cm": 30,
-    "frequency": 0.7812,
+    "frequency": 0.7813,
     "abundance": 1,
     "depth_range": "0-55m",
     "min_sea_temperature": 14.3067,
@@ -103255,7 +103278,7 @@
     "family": "Cottidae",
     "genus": "Jordania",
     "max_length_cm": 15,
-    "frequency": 72.1312,
+    "frequency": 72.1311,
     "abundance": 3.3743,
     "photos": [
       {
@@ -107272,7 +107295,7 @@
     "description": "Elongate almost Pseudanthias-like shape, colouring can be variable but usually with a grey-green or yellowish back, and purplish underside. Usually yellow patch at rear of dorsal fin. Form feeding aggregations well above the reef, usually around steep slopes or drop-offs, often mixed in with schools of Pseudanthias species.",
     "max_length_cm": 10,
     "frequency": 5.684,
-    "abundance": 527.347,
+    "abundance": 527.348,
     "depth_range": "1-30m",
     "min_sea_temperature": 25.97835,
     "max_sea_temperature": 30.87685,
@@ -109121,7 +109144,7 @@
     "family": "Polyceridae",
     "genus": "Limacia",
     "frequency": 32.7273,
-    "abundance": 1.4062,
+    "abundance": 1.4063,
     "photos": [
       {
         "photographer": "Em Lim",
@@ -110350,7 +110373,7 @@
     "genus": "Loxechinus",
     "description": "Red urchin with a dense covering of yellow based spines grading to red tips. Spines vary in length, with spines of the same length arranged in rows radiating outwards from the centre of the shell.",
     "max_length_cm": 10,
-    "frequency": 47.6191,
+    "frequency": 47.619,
     "abundance": 189.566,
     "depth_range": "0-340m",
     "min_sea_temperature": 4.369,
@@ -113513,7 +113536,7 @@
     "genus": "Macolor",
     "description": "High dark body and rounded head. Body colour variable but usually darker than <a href=\"https://reeflifesurvey.com/species/macolor-macularis\"><em>M. macularis</em> (Midnight Snapper)</a> with which it often mixes, and has dull rather than golden iris, also lacks yellow and blue markings on head. Juveniles also very similar to those of <a href=\"https://reeflifesurvey.com/species/macolor-macularis\"><em>M. macularis</em></a>, black with two white stripes along body, one on side and one on belly, and white blotches on back, but <em>M. niger</em> has five or fewer blotches and a vertical band behind head and one on snout. Very young juveniles white with black blotches.",
     "max_length_cm": 75,
-    "frequency": 20.0487,
+    "frequency": 20.0488,
     "abundance": 3.4045,
     "depth_range": "2-90 m",
     "min_sea_temperature": 23.061,
@@ -114204,7 +114227,7 @@
     "family": "Mithracidae",
     "genus": "Maguimithrax",
     "frequency": 13.3333,
-    "abundance": 1.1562,
+    "abundance": 1.1563,
     "methods": [
       2
     ]
@@ -121193,7 +121216,7 @@
     "genus": "Muraena",
     "max_length_cm": 113,
     "frequency": 8.6207,
-    "abundance": 1.1562,
+    "abundance": 1.1563,
     "photos": [
       {
         "photographer": "Rick Stuart-Smith",
@@ -122785,7 +122808,7 @@
     "genus": "Myripristis",
     "description": "Large, reflective silvery scales with dark red/purple margins and relatively light opercular bar ending with distinct black spot on pectoral base. White leading edges on all median fins except for 1st spiny dorsal.",
     "max_length_cm": 35,
-    "frequency": 27.2035,
+    "frequency": 27.2036,
     "abundance": 7.3321,
     "depth_range": "1-30m",
     "min_sea_temperature": 23.63085,
@@ -124855,7 +124878,7 @@
     "family": "Oreasteridae",
     "genus": "Nectria",
     "description": "<p>The tabulae are usually not crowded, have a smooth, outwardly rounded appearance and decrease rapidly in size away from the central body region.</p>\r\n<p>Note: although the species <em>Nectria multispina</em> is still accepted by the World Register of Marine Species (WoRMS), investigation reveals that there is no confirmation that it differs from <em>N pedicelligera</em>. Thus RLS survey data recorded as <em>N multispina</em> is ported in the RLS database as <em>N pedicelligera</em>.</p>",
-    "frequency": 18.6925,
+    "frequency": 18.6924,
     "abundance": 1.3816,
     "min_sea_temperature": 11.994,
     "max_sea_temperature": 21.823,
@@ -131513,7 +131536,7 @@
     "class": "Asteroidea",
     "family": "Ophidiasteridae",
     "genus": "Ophidiaster",
-    "frequency": 68.421,
+    "frequency": 68.4211,
     "abundance": 3.4773,
     "methods": [
       2
@@ -131591,7 +131614,7 @@
     "family": "Blenniidae",
     "genus": "Ophioblennius",
     "max_length_cm": 12,
-    "frequency": 18.6274,
+    "frequency": 18.6275,
     "abundance": 2.6176,
     "photos": [
       {
@@ -135576,7 +135599,7 @@
     "description": "Variable and often multi-coloured body with a white bar on tail base, wide red-edged stripe from eye to above pectoral fin base, and a series of parallel oblique red bars on lower face below eye.",
     "max_length_cm": 46,
     "frequency": 22.5335,
-    "abundance": 1.8874,
+    "abundance": 1.8873,
     "depth_range": "1-160m",
     "min_sea_temperature": 22.327,
     "max_sea_temperature": 30.07325,
@@ -147201,7 +147224,7 @@
     "genus": "Periclimenes",
     "max_length_cm": 3,
     "frequency": 15.3257,
-    "abundance": 2.2812,
+    "abundance": 2.2813,
     "photos": [
       {
         "photographer": "Rick Stuart-Smith",
@@ -148929,7 +148952,7 @@
     "family": "Pholidichthyidae",
     "genus": "Pholidichthys",
     "max_length_cm": 34,
-    "frequency": 38.983,
+    "frequency": 38.9831,
     "abundance": 703.9,
     "photos": [
       {
@@ -157225,7 +157248,7 @@
     "description": "Grey blue body, scales with pale centres and distinct scale margins, large black spot at pectoral fin base, and light tail. Differs from closely related <em>P. flavioculus</em> by location, being confined to the Coral Sea rather than further east around Fiji and Tonga, lack of gold ring around the iris, and whitish tail rather than yellow.",
     "max_length_cm": 11,
     "frequency": 14.4977,
-    "abundance": 38.1262,
+    "abundance": 38.1261,
     "depth_range": "1-15m",
     "min_sea_temperature": 22.039,
     "max_sea_temperature": 29.767,
@@ -175860,7 +175883,7 @@
     "genus": "Scolopsis",
     "description": "Yellow pectoral fin base and patch behind. Juveniles differ from those of <a href=\"https://reeflifesurvey.com/species/scolopsis-affinis\"><em>S. affinis</em></a> and <a href=\"https://reeflifesurvey.com/species/scolopsis-monogramma\"><em>S. monogramma</em></a> by black spot on dorsal fin.",
     "max_length_cm": 28,
-    "frequency": 19.0069,
+    "frequency": 19.0068,
     "abundance": 2.6667,
     "depth_range": "2-25 m",
     "min_sea_temperature": 23.4512,
@@ -176700,7 +176723,7 @@
     "genus": "Scorpaena",
     "max_length_cm": 14,
     "frequency": 45.283,
-    "abundance": 2.4062,
+    "abundance": 2.4063,
     "similar_species_slugs": [
       "scorpaena-maderensis",
       "scorpaena-notata",
@@ -177020,7 +177043,7 @@
     "genus": "Scorpaena",
     "description": "<p>Distinguished from other very similar <em>Scorpaena</em> species in the region by the filaments under the chin, intricate mottling pattern on its head and distinct bars on the tail. <a href=\"https://reeflifesurvey.com/species/scorpaena-scrofa\"><em>S. scrofa</em></a> also has filaments on its chin, but tends to be found deeper (more than 15-20 m) and lacks bars on the tail.</p>",
     "max_length_cm": 14,
-    "frequency": 32.6191,
+    "frequency": 32.619,
     "abundance": 3.5457,
     "depth_range": "3 - 20 m",
     "min_sea_temperature": 17.809,
@@ -186551,7 +186574,7 @@
     "description": "Similar to<a href=\"https://reeflifesurvey.com/species/stegastes-fasciolatus\"><em> S. fasciolatus</em></a> (Pacific Gregory) but with yellow tint to rear of body and fins, and black patch on front of dorsal fin, preceded by thin white streak. Latter difficult to see in adults with dorsal fin retracted. Blue margins on pelvic and anal fins but not as prominent as on <a href=\"https://reeflifesurvey.com/species/stegastes-apicalis\"><em>S. apicalis</em></a> (Yellow-tipped Gregory).",
     "max_length_cm": 12,
     "frequency": 48.8656,
-    "abundance": 8.6301,
+    "abundance": 8.63,
     "depth_range": "2-10m",
     "min_sea_temperature": 18.463,
     "max_sea_temperature": 31.31,
@@ -188932,7 +188955,7 @@
     "genus": "Strongylocentrotus",
     "max_length_cm": 9,
     "frequency": 57.8947,
-    "abundance": 324.117,
+    "abundance": 324.116,
     "photos": [
       {
         "photographer": "Em Lim",
@@ -189935,7 +189958,7 @@
     "family": "Labridae",
     "genus": "Symphodus",
     "max_length_cm": 10,
-    "frequency": 36.4549,
+    "frequency": 36.4548,
     "abundance": 3.7537,
     "similar_species_slugs": [
       "symphodus-tinca"
@@ -194090,7 +194113,7 @@
     "genus": "Thalassoma",
     "max_length_cm": 25,
     "frequency": 73.913,
-    "abundance": 83.7812,
+    "abundance": 83.7813,
     "similar_species_slugs": [
       "halichoeres-garnoti"
     ],
@@ -199737,7 +199760,7 @@
     "genus": "Trimma",
     "max_length_cm": 4,
     "frequency": 1.9366,
-    "abundance": 67.579,
+    "abundance": 67.5789,
     "photos": [
       {
         "photographer": "Graham Edgar",
@@ -202834,7 +202857,7 @@
     "genus": "Uniophora",
     "description": "<p>Variably coloured species with a smooth upper surface covered by blunt spines or rounded tubercles, which often form a zigzag pattern down the centre of each arm. Arrangement of these spines and tubercles is extremely variable, causing several forms to be originally described as different species.</p>",
     "max_length_cm": 24,
-    "frequency": 22.9365,
+    "frequency": 22.9364,
     "abundance": 1.6785,
     "depth_range": "0-30 m",
     "min_sea_temperature": 10.3313,
@@ -206149,7 +206172,7 @@
     "genus": "Zebrasoma",
     "description": "<p>Adults bright yellow, with translucent juvenile stage. Deep-bodied with protruding snout, and white-sheathed peduncular spine. Occurs singly or in a loose group.&nbsp;</p>",
     "max_length_cm": 20,
-    "frequency": 52.3809,
+    "frequency": 52.381,
     "abundance": 1.375,
     "min_sea_temperature": 22.8522,
     "max_sea_temperature": 30.6025,
