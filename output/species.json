@@ -2014,6 +2014,8 @@
     "class": "Gastropoda",
     "family": "Acanthodorididae",
     "genus": "Acanthodoris",
+    "frequency": 71.4286,
+    "abundance": 1.5,
     "methods": [
       2
     ]
@@ -11072,6 +11074,8 @@
     "class": "Teleostei",
     "family": "Stichaeidae",
     "genus": "Anoplarchus",
+    "frequency": 14.2857,
+    "abundance": 1,
     "methods": [
       1,
       2
@@ -38400,6 +38404,8 @@
     "class": "Malacostraca",
     "family": "Portunidae",
     "genus": "Charybdis",
+    "frequency": 75,
+    "abundance": 1.3333,
     "methods": [
       2
     ]
@@ -64537,6 +64543,8 @@
     "class": "Asteroidea",
     "family": "Echinasteridae",
     "genus": "Echinaster",
+    "frequency": 44.4444,
+    "abundance": 6.6667,
     "methods": [
       2
     ]
@@ -64771,6 +64779,8 @@
     "class": "Asteroidea",
     "family": "Echinasteridae",
     "genus": "Echinaster",
+    "frequency": 83.3333,
+    "abundance": 5,
     "methods": [
       2
     ]
@@ -98757,6 +98767,8 @@
     "class": "Holothuroidea",
     "family": "Holothuriidae",
     "genus": "Holothuria",
+    "frequency": 50,
+    "abundance": 2,
     "methods": [
       2
     ]
@@ -98924,6 +98936,8 @@
     "class": "Holothuroidea",
     "family": "Holothuriidae",
     "genus": "Holothuria",
+    "frequency": 100,
+    "abundance": 1,
     "methods": [
       2
     ]
@@ -99255,6 +99269,8 @@
     "class": "Holothuroidea",
     "family": "Holothuriidae",
     "genus": "Holothuria",
+    "frequency": 17.3913,
+    "abundance": 1.8889,
     "photos": [
       {
         "photographer": "Graham Edgar",
