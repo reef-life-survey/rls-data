@@ -2193,8 +2193,8 @@
     [
       "https://images.reeflifesurvey.com/1/species_32_619b07ff7f793.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_8c_5847bf5483d08.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_77_619b081504438.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_a4_5847bf5024c16.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_77_619b081504438.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_0b_5847bf59ddf87.w1000.h666.jpg"
     ]
   ],
@@ -4887,6 +4887,7 @@
     [
       "https://images.reeflifesurvey.com/0/species_37_5768a0a24fac6.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_b6_575127f111c91.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_b6_6ae022b63a700.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_a9_57689f080d2e5.w1000.h666.jpg"
     ]
   ],
@@ -20155,7 +20156,8 @@
     "https://reeflifesurvey.com/species/eviota-nigriventris/",
     2,
     [
-      "https://images.reeflifesurvey.com/1/species_66_5ed498a8abc08.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/1/species_b7_6ae019bd25c2f.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_14_6ae019bdce86c.w1000.h666.jpg"
     ]
   ],
   "Eviota pellucida": [
@@ -20370,8 +20372,6 @@
     "https://reeflifesurvey.com/species/eviota-sp-cf-nigriventris/",
     2,
     [
-      "https://images.reeflifesurvey.com/0/species_c1_573b0a519cd4b.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_90_5770b69e86778.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_eb_5ed497ee204c6.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_cf_5ed497f245013.w1000.h666.jpg"
     ]
@@ -20426,9 +20426,7 @@
     "",
     "https://reeflifesurvey.com/species/eviota-sp-nigriventris/",
     2,
-    [
-      "https://images.reeflifesurvey.com/1/species_b2_6494386287366.w1000.h666.jpg"
-    ]
+    []
   ],
   "Eviota sp. [punctulata]": [
     "Eviota sp. [punctulata]",
@@ -28028,7 +28026,8 @@
     [
       "https://images.reeflifesurvey.com/0/species_c8_5763800c6c652.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_b7_578ef74629209.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_60_57e0c07b00620.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_60_57e0c07b00620.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_ad_6ae023da0988f.w1000.h666.JPG"
     ]
   ],
   "Jorunna parva": [
@@ -37999,7 +37998,9 @@
     "Redhead Stylophora Goby",
     "https://reeflifesurvey.com/species/paragobiodon-echinocephalus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_4f_6ae0243929db5.w1000.h666.JPG"
+    ]
   ],
   "Paragobiodon lacunicolus": [
     "Paragobiodon lacunicolus",
@@ -38031,7 +38032,9 @@
     "Emerald coral goby",
     "https://reeflifesurvey.com/species/paragobiodon-sp-xanthosoma/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_0f_6ae0227161492.w1000.h666.JPG"
+    ]
   ],
   "Paragobiodon xanthosoma": [
     "Paragobiodon xanthosoma",
@@ -38824,8 +38827,8 @@
     "https://reeflifesurvey.com/species/paristiopterus-gallipavo/",
     0,
     [
-      "https://images.reeflifesurvey.com/1/species_60_5cad5549977f7.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/1/species_c2_633e08dacf68c.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_60_5cad5549977f7.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/1/species_a3_633e08fd905c5.w1000.h666.jpg"
     ]
   ],
@@ -40802,7 +40805,9 @@
     "Krempfis Phyllidiopsis",
     "https://reeflifesurvey.com/species/phyllidiopsis-krempfi/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_77_6ae02486d5a10.w1000.h666.JPG"
+    ]
   ],
   "Phyllidiopsis pipeki": [
     "Phyllidiopsis pipeki",
@@ -44897,8 +44902,8 @@
     1,
     [
       "https://images.reeflifesurvey.com/0/species_fb_58e489852aaa1.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_34_58e48b156fc1f.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_8a_597ead3984452.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/0/species_8a_597ead3984452.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_1b_6ae02564acc72.w1000.h666.JPG"
     ]
   ],
   "Pteragogus aurigarius": [
@@ -46099,10 +46104,10 @@
     "https://reeflifesurvey.com/species/rochia-nilotica/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_d8_5795f9e72c34e.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_41_59e3fcd8aa190.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_d9_5795f9b9aa298.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_d8_5795f9e72c34e.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_9d_59e3fce103351.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_d9_5795f9b9aa298.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_b7_5c89cfc9ed3c5.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_e9_5c89cfc4175f7.w1000.h666.jpg"
     ]
@@ -55081,8 +55086,8 @@
     [
       "https://images.reeflifesurvey.com/0/species_a0_572955c11fc97.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_88_675b5e31738e3.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_17_656d187f13b0d.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_70_5e649b84290ae.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_70_5e649b84290ae.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_17_656d187f13b0d.w1000.h666.jpg"
     ]
   ],
   "Urolophus sp. (striped stingaree)": [

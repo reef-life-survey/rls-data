@@ -9025,16 +9025,16 @@
       {
         "location": "Maldives",
         "photographer": "Rick Stuart-Smith",
-        "large_url": "https://images.reeflifesurvey.com/1/species_77_619b081504438.w1000.h666.jpg",
-        "medium_url": "https://images.reeflifesurvey.com/1/species_77_619b081504438.w400.h266.jpg",
-        "small_url": "https://images.reeflifesurvey.com/1/species_77_619b081504438.w130.h87.jpg"
+        "large_url": "https://images.reeflifesurvey.com/0/species_a4_5847bf5024c16.w1000.h666.jpg",
+        "medium_url": "https://images.reeflifesurvey.com/0/species_a4_5847bf5024c16.w400.h266.jpg",
+        "small_url": "https://images.reeflifesurvey.com/0/species_a4_5847bf5024c16.w130.h87.jpg"
       },
       {
         "location": "Maldives",
         "photographer": "Rick Stuart-Smith",
-        "large_url": "https://images.reeflifesurvey.com/0/species_a4_5847bf5024c16.w1000.h666.jpg",
-        "medium_url": "https://images.reeflifesurvey.com/0/species_a4_5847bf5024c16.w400.h266.jpg",
-        "small_url": "https://images.reeflifesurvey.com/0/species_a4_5847bf5024c16.w130.h87.jpg"
+        "large_url": "https://images.reeflifesurvey.com/1/species_77_619b081504438.w1000.h666.jpg",
+        "medium_url": "https://images.reeflifesurvey.com/1/species_77_619b081504438.w400.h266.jpg",
+        "small_url": "https://images.reeflifesurvey.com/1/species_77_619b081504438.w130.h87.jpg"
       },
       {
         "location": "Maldives",
@@ -18800,6 +18800,14 @@
         "large_url": "https://images.reeflifesurvey.com/0/species_b6_575127f111c91.w1000.h666.jpg",
         "medium_url": "https://images.reeflifesurvey.com/0/species_b6_575127f111c91.w400.h266.jpg",
         "small_url": "https://images.reeflifesurvey.com/0/species_b6_575127f111c91.w130.h87.jpg"
+      },
+      {
+        "location": "Bonner Rocks, NT",
+        "life_stage": "juvenile",
+        "photographer": "Joanna Schmid",
+        "large_url": "https://images.reeflifesurvey.com/1/species_b6_6ae022b63a700.w1000.h666.JPG",
+        "medium_url": "https://images.reeflifesurvey.com/1/species_b6_6ae022b63a700.w400.h266.JPG",
+        "small_url": "https://images.reeflifesurvey.com/1/species_b6_6ae022b63a700.w130.h87.JPG"
       },
       {
         "location": "Exmouth, WA",
@@ -74183,7 +74191,7 @@
     "class": "Actinopterygii",
     "family": "Gobiidae",
     "genus": "Eviota",
-    "description": "<p>Broad reddish stripe on body becoming black at tail base. White stripe between eyes and along upper edge of red body stripe to tail base where it curves downwards.</p>",
+    "description": "<p>Known from Banda Sea, with similar individuals from in Australia, Phillipines, and Japan awaiting genetic confirmation. Body mostly red with dark spot at caudal fin base, and white line running along the dorsal surface. Eye solid red with white stripe along the upper margin of the pupil, partially connecting to a short white stripe extending just behind the eye. Another white stripe extends from snout, across interorbital area, onto the top of the head.&nbsp;</p>",
     "max_length_cm": 4,
     "frequency": 3.0479,
     "abundance": 8.3214,
@@ -74198,11 +74206,17 @@
     "photos": [
       {
         "location": "Raja Ampat, Indonesia",
-        "life_stage": "juvenile",
         "photographer": "Andrew Green",
-        "large_url": "https://images.reeflifesurvey.com/1/species_66_5ed498a8abc08.w1000.h666.JPG",
-        "medium_url": "https://images.reeflifesurvey.com/1/species_66_5ed498a8abc08.w400.h266.JPG",
-        "small_url": "https://images.reeflifesurvey.com/1/species_66_5ed498a8abc08.w130.h87.JPG"
+        "large_url": "https://images.reeflifesurvey.com/1/species_b7_6ae019bd25c2f.w1000.h666.jpg",
+        "medium_url": "https://images.reeflifesurvey.com/1/species_b7_6ae019bd25c2f.w400.h266.jpg",
+        "small_url": "https://images.reeflifesurvey.com/1/species_b7_6ae019bd25c2f.w130.h87.jpg"
+      },
+      {
+        "location": "Raja Ampat, Indonesia",
+        "photographer": "Rick Stuart-Smith",
+        "large_url": "https://images.reeflifesurvey.com/1/species_14_6ae019bdce86c.w1000.h666.jpg",
+        "medium_url": "https://images.reeflifesurvey.com/1/species_14_6ae019bdce86c.w400.h266.jpg",
+        "small_url": "https://images.reeflifesurvey.com/1/species_14_6ae019bdce86c.w130.h87.jpg"
       }
     ],
     "methods": [
@@ -74826,26 +74840,15 @@
     "class": "Actinopterygii",
     "family": "Gobiidae",
     "genus": "Eviota",
+    "description": "<p>Morphologically similar species to <a href=\"https://reeflife.org/species/eviota-nigriventris/\"><em>Eviota nigriventris</em></a>, which is known from Gunung Api, Banda Sea. Specimens from Australia, Phillipines, Palau, and Japan require genetic confirmation.&nbsp;</p>",
     "max_length_cm": 3,
     "frequency": 50,
+    "confidence": "high confidence",
+    "threat_status": "Not Evaluated",
     "similar_species_slugs": [
       "eviota-nigriventris"
     ],
     "photos": [
-      {
-        "location": "Raja Ampat, Indonesia",
-        "photographer": "Rick Stuart-Smith",
-        "large_url": "https://images.reeflifesurvey.com/0/species_c1_573b0a519cd4b.w1000.h666.jpg",
-        "medium_url": "https://images.reeflifesurvey.com/0/species_c1_573b0a519cd4b.w400.h266.jpg",
-        "small_url": "https://images.reeflifesurvey.com/0/species_c1_573b0a519cd4b.w130.h87.jpg"
-      },
-      {
-        "location": "Raja Ampat, Indonesia",
-        "photographer": "Andrew Green",
-        "large_url": "https://images.reeflifesurvey.com/0/species_90_5770b69e86778.w1000.h666.jpg",
-        "medium_url": "https://images.reeflifesurvey.com/0/species_90_5770b69e86778.w400.h266.jpg",
-        "small_url": "https://images.reeflifesurvey.com/0/species_90_5770b69e86778.w130.h87.jpg"
-      },
       {
         "location": "Clerke Reef, NW Australia",
         "life_stage": "adult",
@@ -75013,15 +75016,6 @@
     "family": "Gobiidae",
     "genus": "Eviota",
     "frequency": 100,
-    "photos": [
-      {
-        "location": "Raja Ampat, Indonesia",
-        "photographer": "Andrew Green",
-        "large_url": "https://images.reeflifesurvey.com/1/species_b2_6494386287366.w1000.h666.jpg",
-        "medium_url": "https://images.reeflifesurvey.com/1/species_b2_6494386287366.w400.h266.jpg",
-        "small_url": "https://images.reeflifesurvey.com/1/species_b2_6494386287366.w130.h87.jpg"
-      }
-    ],
     "methods": [
       1,
       2
@@ -103363,6 +103357,13 @@
         "large_url": "https://images.reeflifesurvey.com/0/species_60_57e0c07b00620.w1000.h666.jpg",
         "medium_url": "https://images.reeflifesurvey.com/0/species_60_57e0c07b00620.w400.h266.jpg",
         "small_url": "https://images.reeflifesurvey.com/0/species_60_57e0c07b00620.w130.h87.jpg"
+      },
+      {
+        "location": "Northern Territory, Australia",
+        "photographer": "Joanna schmid",
+        "large_url": "https://images.reeflifesurvey.com/1/species_ad_6ae023da0988f.w1000.h666.JPG",
+        "medium_url": "https://images.reeflifesurvey.com/1/species_ad_6ae023da0988f.w400.h266.JPG",
+        "small_url": "https://images.reeflifesurvey.com/1/species_ad_6ae023da0988f.w130.h87.JPG"
       }
     ],
     "methods": [
@@ -139686,6 +139687,15 @@
     "confidence": "high confidence",
     "threat_status": "Not Evaluated",
     "editor_name": "Jo Schmid",
+    "photos": [
+      {
+        "location": "Torres Strait",
+        "photographer": "Joanna Schmid",
+        "large_url": "https://images.reeflifesurvey.com/1/species_4f_6ae0243929db5.w1000.h666.JPG",
+        "medium_url": "https://images.reeflifesurvey.com/1/species_4f_6ae0243929db5.w400.h266.JPG",
+        "small_url": "https://images.reeflifesurvey.com/1/species_4f_6ae0243929db5.w130.h87.JPG"
+      }
+    ],
     "methods": [
       1,
       2
@@ -139769,6 +139779,15 @@
     "genus": "Paragobiodon",
     "frequency": 50,
     "abundance": 1,
+    "photos": [
+      {
+        "location": "Torres Strait",
+        "photographer": "Joanna Schmid",
+        "large_url": "https://images.reeflifesurvey.com/1/species_0f_6ae0227161492.w1000.h666.JPG",
+        "medium_url": "https://images.reeflifesurvey.com/1/species_0f_6ae0227161492.w400.h266.JPG",
+        "small_url": "https://images.reeflifesurvey.com/1/species_0f_6ae0227161492.w130.h87.JPG"
+      }
+    ],
     "methods": [
       1,
       2
@@ -142841,17 +142860,17 @@
     "photos": [
       {
         "location": "Geographe Bay, WA",
-        "photographer": "Paul Day",
-        "large_url": "https://images.reeflifesurvey.com/1/species_60_5cad5549977f7.w1000.h666.JPG",
-        "medium_url": "https://images.reeflifesurvey.com/1/species_60_5cad5549977f7.w400.h266.JPG",
-        "small_url": "https://images.reeflifesurvey.com/1/species_60_5cad5549977f7.w130.h87.JPG"
-      },
-      {
-        "location": "Geographe Bay, WA",
         "photographer": "Rick Stuart-Smith",
         "large_url": "https://images.reeflifesurvey.com/1/species_c2_633e08dacf68c.w1000.h666.jpg",
         "medium_url": "https://images.reeflifesurvey.com/1/species_c2_633e08dacf68c.w400.h266.jpg",
         "small_url": "https://images.reeflifesurvey.com/1/species_c2_633e08dacf68c.w130.h87.jpg"
+      },
+      {
+        "location": "Geographe Bay, WA",
+        "photographer": "Paul Day",
+        "large_url": "https://images.reeflifesurvey.com/1/species_60_5cad5549977f7.w1000.h666.JPG",
+        "medium_url": "https://images.reeflifesurvey.com/1/species_60_5cad5549977f7.w400.h266.JPG",
+        "small_url": "https://images.reeflifesurvey.com/1/species_60_5cad5549977f7.w130.h87.JPG"
       },
       {
         "location": "Geographe Bay, WA",
@@ -150131,6 +150150,15 @@
     "genus": "Phyllidiopsis",
     "frequency": 100,
     "abundance": 1,
+    "photos": [
+      {
+        "location": "Marie Shoal, Northern Territory",
+        "photographer": "Joanna Schmid",
+        "large_url": "https://images.reeflifesurvey.com/1/species_77_6ae02486d5a10.w1000.h666.JPG",
+        "medium_url": "https://images.reeflifesurvey.com/1/species_77_6ae02486d5a10.w400.h266.JPG",
+        "small_url": "https://images.reeflifesurvey.com/1/species_77_6ae02486d5a10.w130.h87.JPG"
+      }
+    ],
     "methods": [
       2
     ]
@@ -165865,19 +165893,18 @@
         "small_url": "https://images.reeflifesurvey.com/0/species_fb_58e489852aaa1.w130.h87.JPG"
       },
       {
-        "location": "Holmes Reef, Coral Sea, Australia",
-        "life_stage": "adult",
-        "photographer": "Andrew Green",
-        "large_url": "https://images.reeflifesurvey.com/0/species_34_58e48b156fc1f.w1000.h666.JPG",
-        "medium_url": "https://images.reeflifesurvey.com/0/species_34_58e48b156fc1f.w400.h266.JPG",
-        "small_url": "https://images.reeflifesurvey.com/0/species_34_58e48b156fc1f.w130.h87.JPG"
-      },
-      {
         "location": "Tulamben, Bali",
         "photographer": "Tom Davis",
         "large_url": "https://images.reeflifesurvey.com/0/species_8a_597ead3984452.w1000.h666.JPG",
         "medium_url": "https://images.reeflifesurvey.com/0/species_8a_597ead3984452.w400.h266.JPG",
         "small_url": "https://images.reeflifesurvey.com/0/species_8a_597ead3984452.w130.h87.JPG"
+      },
+      {
+        "location": "Oceanic Shoals, Western Australia",
+        "photographer": "Joanna Schmid",
+        "large_url": "https://images.reeflifesurvey.com/1/species_1b_6ae02564acc72.w1000.h666.JPG",
+        "medium_url": "https://images.reeflifesurvey.com/1/species_1b_6ae02564acc72.w400.h266.JPG",
+        "small_url": "https://images.reeflifesurvey.com/1/species_1b_6ae02564acc72.w130.h87.JPG"
       }
     ],
     "main_common_name": "Nudibranch",
@@ -170565,13 +170592,6 @@
     "abundance": 3.0751,
     "photos": [
       {
-        "location": "1 of 2. North WA, Australia",
-        "photographer": "Andrew Green",
-        "large_url": "https://images.reeflifesurvey.com/0/species_d8_5795f9e72c34e.w1000.h666.jpg",
-        "medium_url": "https://images.reeflifesurvey.com/0/species_d8_5795f9e72c34e.w400.h266.jpg",
-        "small_url": "https://images.reeflifesurvey.com/0/species_d8_5795f9e72c34e.w130.h87.jpg"
-      },
-      {
         "location": "Moorea, French Polynesia",
         "photographer": "Graham Edgar",
         "large_url": "https://images.reeflifesurvey.com/0/species_41_59e3fcd8aa190.w1000.h666.JPG",
@@ -170579,11 +170599,11 @@
         "small_url": "https://images.reeflifesurvey.com/0/species_41_59e3fcd8aa190.w130.h87.JPG"
       },
       {
-        "location": "2 of 2. North WA, Australia",
+        "location": "1 of 2. North WA, Australia",
         "photographer": "Andrew Green",
-        "large_url": "https://images.reeflifesurvey.com/0/species_d9_5795f9b9aa298.w1000.h666.jpg",
-        "medium_url": "https://images.reeflifesurvey.com/0/species_d9_5795f9b9aa298.w400.h266.jpg",
-        "small_url": "https://images.reeflifesurvey.com/0/species_d9_5795f9b9aa298.w130.h87.jpg"
+        "large_url": "https://images.reeflifesurvey.com/0/species_d8_5795f9e72c34e.w1000.h666.jpg",
+        "medium_url": "https://images.reeflifesurvey.com/0/species_d8_5795f9e72c34e.w400.h266.jpg",
+        "small_url": "https://images.reeflifesurvey.com/0/species_d8_5795f9e72c34e.w130.h87.jpg"
       },
       {
         "location": "WA, Australia",
@@ -170591,6 +170611,13 @@
         "large_url": "https://images.reeflifesurvey.com/0/species_9d_59e3fce103351.w1000.h666.jpg",
         "medium_url": "https://images.reeflifesurvey.com/0/species_9d_59e3fce103351.w400.h266.jpg",
         "small_url": "https://images.reeflifesurvey.com/0/species_9d_59e3fce103351.w130.h87.jpg"
+      },
+      {
+        "location": "2 of 2. North WA, Australia",
+        "photographer": "Andrew Green",
+        "large_url": "https://images.reeflifesurvey.com/0/species_d9_5795f9b9aa298.w1000.h666.jpg",
+        "medium_url": "https://images.reeflifesurvey.com/0/species_d9_5795f9b9aa298.w400.h266.jpg",
+        "small_url": "https://images.reeflifesurvey.com/0/species_d9_5795f9b9aa298.w130.h87.jpg"
       },
       {
         "location": "WA, Australia",
@@ -203712,18 +203739,18 @@
         "small_url": "https://images.reeflifesurvey.com/1/species_88_675b5e31738e3.w130.h87.jpg"
       },
       {
-        "location": "Bicheno, TAS",
-        "photographer": "Rick Stuart-Smith",
-        "large_url": "https://images.reeflifesurvey.com/1/species_17_656d187f13b0d.w1000.h666.jpg",
-        "medium_url": "https://images.reeflifesurvey.com/1/species_17_656d187f13b0d.w400.h266.jpg",
-        "small_url": "https://images.reeflifesurvey.com/1/species_17_656d187f13b0d.w130.h87.jpg"
-      },
-      {
         "location": "Norfolk Bay, TAS",
         "photographer": "Rick Stuart-Smith",
         "large_url": "https://images.reeflifesurvey.com/1/species_70_5e649b84290ae.w1000.h666.jpg",
         "medium_url": "https://images.reeflifesurvey.com/1/species_70_5e649b84290ae.w400.h266.jpg",
         "small_url": "https://images.reeflifesurvey.com/1/species_70_5e649b84290ae.w130.h87.jpg"
+      },
+      {
+        "location": "Bicheno, TAS",
+        "photographer": "Rick Stuart-Smith",
+        "large_url": "https://images.reeflifesurvey.com/1/species_17_656d187f13b0d.w1000.h666.jpg",
+        "medium_url": "https://images.reeflifesurvey.com/1/species_17_656d187f13b0d.w400.h266.jpg",
+        "small_url": "https://images.reeflifesurvey.com/1/species_17_656d187f13b0d.w130.h87.jpg"
       }
     ],
     "methods": [
