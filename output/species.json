@@ -11792,8 +11792,8 @@
     "class": "Actinopterygii",
     "family": "Serranidae",
     "genus": "Anthias",
-    "frequency": 9.6639,
-    "abundance": 85.8833,
+    "frequency": 10.3734,
+    "abundance": 88.619,
     "photos": [
       {
         "photographer": "Natali Lazzari",
@@ -13420,7 +13420,7 @@
     "genus": "Apogon",
     "max_length_cm": 15,
     "frequency": 58.9623,
-    "abundance": 5.4509,
+    "abundance": 5.4698,
     "min_sea_temperature": 12.722,
     "max_sea_temperature": 26.85,
     "habitat_generalisation_index": 9.7207875,
@@ -14527,8 +14527,8 @@
     "family": "Arbaciidae",
     "genus": "Arbacia",
     "max_length_cm": 10,
-    "frequency": 79.7701,
-    "abundance": 19.6822,
+    "frequency": 80,
+    "abundance": 19.6307,
     "similar_species_slugs": [
       "paracentrotus-lividus"
     ],
@@ -22603,7 +22603,7 @@
     "family": "Turbinidae",
     "genus": "Bolma",
     "frequency": 22.7425,
-    "abundance": 2.5447,
+    "abundance": 2.5381,
     "photos": [
       {
         "photographer": "Natali Lazzari",
@@ -22696,7 +22696,7 @@
     "genus": "Boops",
     "max_length_cm": 36,
     "frequency": 52.9412,
-    "abundance": 522.645,
+    "abundance": 521.923,
     "photos": [
       {
         "location": "Canary Islands",
@@ -43108,7 +43108,7 @@
     "genus": "Chromis",
     "max_length_cm": 25,
     "frequency": 91.9614,
-    "abundance": 408.245,
+    "abundance": 406.305,
     "photos": [
       {
         "location": "Naples",
@@ -52718,7 +52718,7 @@
     "genus": "Coris",
     "max_length_cm": 30,
     "frequency": 74.6171,
-    "abundance": 35.3808,
+    "abundance": 35.2352,
     "min_sea_temperature": 11.573,
     "max_sea_temperature": 29.0503,
     "habitat_generalisation_index": 9.6230678,
@@ -58243,8 +58243,8 @@
     "class": "Malacostraca",
     "family": "Diogenidae",
     "genus": "Dardanus",
-    "frequency": 3.6697,
-    "abundance": 1.3,
+    "frequency": 4.9107,
+    "abundance": 1.4444,
     "methods": [
       2
     ]
@@ -58259,7 +58259,7 @@
     "genus": "Dardanus",
     "max_length_cm": 10,
     "frequency": 24.1895,
-    "abundance": 1.7097,
+    "abundance": 1.7273,
     "photos": [
       {
         "photographer": "Rick Stuart-Smith",
@@ -59859,7 +59859,7 @@
     "genus": "Dentex",
     "max_length_cm": 100,
     "frequency": 17.7258,
-    "abundance": 2.6986,
+    "abundance": 2.6494,
     "photos": [
       {
         "location": "Banyuls",
@@ -60889,8 +60889,8 @@
     "family": "Moronidae",
     "genus": "Dicentrarchus",
     "max_length_cm": 103,
-    "frequency": 8.6379,
-    "abundance": 4.6571,
+    "frequency": 8.8816,
+    "abundance": 4.6389,
     "photos": [
       {
         "location": "Vigo, Spain",
@@ -61656,7 +61656,7 @@
     "genus": "Diplodus",
     "max_length_cm": 24,
     "frequency": 38.565,
-    "abundance": 4.2208,
+    "abundance": 4.2348,
     "similar_species_slugs": [
       "diplodus-puntazzo",
       "spondyliosoma-cantharus"
@@ -61968,8 +61968,8 @@
     "family": "Sparidae",
     "genus": "Diplodus",
     "max_length_cm": 44,
-    "frequency": 73.2609,
-    "abundance": 5.9665,
+    "frequency": 73.4783,
+    "abundance": 5.9552,
     "similar_species_slugs": [
       "diplodus-puntazzo"
     ],
@@ -62025,7 +62025,7 @@
     "description": "Two black saddles differ from other similarly shaped <em>Diplodus</em> species.",
     "max_length_cm": 45,
     "frequency": 79.6537,
-    "abundance": 13.0331,
+    "abundance": 13.0156,
     "min_sea_temperature": 11.573,
     "max_sea_temperature": 27.77,
     "habitat_generalisation_index": 16.5736832,
@@ -64757,8 +64757,8 @@
     "family": "Echinasteridae",
     "genus": "Echinaster",
     "max_length_cm": 20,
-    "frequency": 38.0829,
-    "abundance": 3.0469,
+    "frequency": 38.8601,
+    "abundance": 3.0346,
     "photos": [
       {
         "location": "Marseille, France",
@@ -68461,8 +68461,8 @@
     "class": "Actinopterygii",
     "family": "Engraulidae",
     "genus": "Engraulis",
-    "frequency": 2.6906,
-    "abundance": 15.8571,
+    "frequency": 3.0172,
+    "abundance": 14,
     "photos": [
       {
         "photographer": "Jose A. Sanabria-Fernandez",
@@ -71002,7 +71002,7 @@
     "description": "Olive to dark grey, sometimes becoming pale on lower body, breast yellowish, irregular pale blotches on head and body, usually arranged in vertical series, broad, black outer margins on fins, and a yellow stripe along the top of the spiny dorsal fin. Solitary and territorial.",
     "max_length_cm": 150,
     "frequency": 34.2984,
-    "abundance": 1.7596,
+    "abundance": 1.7854,
     "depth_range": "8-300m",
     "min_sea_temperature": 12.482,
     "max_sea_temperature": 29.073,
@@ -73291,8 +73291,8 @@
     "class": "Gastropoda",
     "family": "Buccinidae",
     "genus": "Euthria",
-    "frequency": 7.4766,
-    "abundance": 1.04,
+    "frequency": 8.9686,
+    "abundance": 1.1,
     "photos": [
       {
         "photographer": "Natali Lazzari",
@@ -87284,7 +87284,7 @@
     "genus": "Hacelia",
     "max_length_cm": 20,
     "frequency": 12.1387,
-    "abundance": 3.3095,
+    "abundance": 3.2,
     "photos": [
       {
         "location": "Naples, Italy",
@@ -92131,8 +92131,8 @@
     "family": "Haliotidae",
     "genus": "Haliotis",
     "max_length_cm": 12,
-    "frequency": 17.866,
-    "abundance": 1.551,
+    "frequency": 18.3623,
+    "abundance": 1.5347,
     "photos": [
       {
         "photographer": "Rick Stuart-Smith",
@@ -96908,8 +96908,8 @@
     "class": "Gastropoda",
     "family": "Muricidae",
     "genus": "Hexaplex",
-    "frequency": 33.4177,
-    "abundance": 2.3272,
+    "frequency": 33.6709,
+    "abundance": 2.3195,
     "photos": [
       {
         "photographer": "Rick Stuart-Smith",
@@ -98538,8 +98538,8 @@
     "class": "Holothuroidea",
     "family": "Holothuriidae",
     "genus": "Holothuria",
-    "frequency": 8.0569,
-    "abundance": 4.68,
+    "frequency": 5.7143,
+    "abundance": 4.5385,
     "methods": [
       2
     ]
@@ -98776,8 +98776,8 @@
     "family": "Holothuriidae",
     "genus": "Holothuria",
     "max_length_cm": 25,
-    "frequency": 17.5772,
-    "abundance": 9.8581,
+    "frequency": 18.2898,
+    "abundance": 9.702,
     "photos": [
       {
         "photographer": "Rick Stuart-Smith",
@@ -99429,7 +99429,7 @@
     "genus": "Holothuria",
     "max_length_cm": 30,
     "frequency": 78.8406,
-    "abundance": 4.9446,
+    "abundance": 4.9213,
     "photos": [
       {
         "location": "Banyuls, France",
@@ -115273,8 +115273,8 @@
     "family": "Asteriidae",
     "genus": "Marthasterias",
     "max_length_cm": 70,
-    "frequency": 20.6612,
-    "abundance": 36.0989,
+    "frequency": 21.0744,
+    "abundance": 35.8436,
     "photos": [
       {
         "location": "Banyuls, France",
@@ -121040,8 +121040,8 @@
     "family": "Mullidae",
     "genus": "Mullus",
     "max_length_cm": 40,
-    "frequency": 56.9507,
-    "abundance": 7.4631,
+    "frequency": 57.1749,
+    "abundance": 7.4482,
     "photos": [
       {
         "location": "Blanes, Spain",
@@ -121735,8 +121735,8 @@
     "class": "Actinopterygii",
     "family": "Serranidae",
     "genus": "Mycteroperca",
-    "frequency": 31.7073,
-    "abundance": 1.5517,
+    "frequency": 6.8293,
+    "abundance": 1.5667,
     "methods": [
       1,
       2
@@ -129492,7 +129492,7 @@
     "family": "Sparidae",
     "genus": "Oblada",
     "frequency": 56.2092,
-    "abundance": 35.8767,
+    "abundance": 35.6506,
     "photos": [
       {
         "location": "Banyuls, France",
@@ -136992,7 +136992,7 @@
     "genus": "Pagurus",
     "max_length_cm": 3,
     "frequency": 55,
-    "abundance": 2.2369,
+    "abundance": 2.2389,
     "photos": [
       {
         "location": "Canary Islands, Spain",
@@ -139070,7 +139070,7 @@
     "genus": "Paracentrotus",
     "max_length_cm": 6,
     "frequency": 83.8565,
-    "abundance": 51.0121,
+    "abundance": 50.9833,
     "similar_species_slugs": [
       "arbacia-lixula"
     ],
@@ -151304,8 +151304,8 @@
     "family": "Pinnidae",
     "genus": "Pinna",
     "max_length_cm": 120,
-    "frequency": 11.0619,
-    "abundance": 1.3947,
+    "frequency": 11.0169,
+    "abundance": 1.3846,
     "methods": [
       2
     ]
@@ -151319,8 +151319,8 @@
     "family": "Pinnidae",
     "genus": "Pinna",
     "max_length_cm": 105,
-    "frequency": 26.2162,
-    "abundance": 1.2987,
+    "frequency": 26.4865,
+    "abundance": 1.2949,
     "photos": [
       {
         "photographer": "Jose A. Sanabria-Fernandez",
@@ -175450,8 +175450,8 @@
     "family": "Sciaenidae",
     "genus": "Sciaena",
     "max_length_cm": 70,
-    "frequency": 14.3541,
-    "abundance": 4.6522,
+    "frequency": 14.8325,
+    "abundance": 4.8723,
     "photos": [
       {
         "location": "Mallorca, Spain",
@@ -177086,8 +177086,8 @@
     "genus": "Scorpaena",
     "description": "<p>Distinguished from other very similar <em>Scorpaena</em> species in the region by the filaments under the chin, intricate mottling pattern on its head and distinct bars on the tail. <a href=\"https://reeflifesurvey.com/species/scorpaena-scrofa\"><em>S. scrofa</em></a> also has filaments on its chin, but tends to be found deeper (more than 15-20 m) and lacks bars on the tail.</p>",
     "max_length_cm": 14,
-    "frequency": 32.619,
-    "abundance": 3.5457,
+    "frequency": 32.8571,
+    "abundance": 3.5341,
     "depth_range": "3 - 20 m",
     "min_sea_temperature": 17.809,
     "max_sea_temperature": 24.705,
@@ -177193,8 +177193,8 @@
     "genus": "Scorpaena",
     "description": "<p>One of the more difficult to identify among a number of similar species in the region. Lacks distinct filaments under the chin, as present on <a href=\"https://reeflifesurvey.com/species/scorpaena-maderensis\"><em>S. maderensis</em></a>. Filaments above the eye are sometimes present, but not as large as on <a href=\"https://reeflifesurvey.com/species/scorpaena-porcus\"><em>S. porcus</em></a>. The scales on the body are relatively large, and clearly bigger than on <em>S. porcus</em>. Generally lacks distinct bars on the tail, and is most often found deeper than 10 m.</p>",
     "max_length_cm": 24,
-    "frequency": 21.8447,
-    "abundance": 1.5215,
+    "frequency": 22.0874,
+    "abundance": 1.5183,
     "depth_range": "10 - 50 m",
     "min_sea_temperature": 11.197,
     "max_sea_temperature": 29.53605,
@@ -180569,8 +180569,8 @@
     "genus": "Seriola",
     "description": "Silvery body, usually with a dark oblique line from corner of the mouth, through eye to the top the head and a straight line from behind eye to tail. Less steep head than <a href=\"https://reeflifesurvey.com/species/seriola-hippos\"><em>S. hippos</em></a> (Samsonfish) and deeper body than <a href=\"https://reeflifesurvey.com/species/seriola-lalandi\"><em>S. lalandi</em></a> (Yellowtail Kingfish). Dorsal fin lobe equal length to pectoral fin, and anal fin lobe shorter than pectoral fin length. <a href=\"https://reeflifesurvey.com/species/seriola-rivoliana\"><em>S. rivoliana</em></a> (Highfin Amberjack) has longer anal and dorsal fin lobes - otherwise nearly identical in appearance.",
     "max_length_cm": 190,
-    "frequency": 1.4337,
-    "abundance": 8.4699,
+    "frequency": 1.4636,
+    "abundance": 8.381,
     "depth_range": "1-360m",
     "min_sea_temperature": 10.37565,
     "max_sea_temperature": 29.63145,
@@ -181074,7 +181074,7 @@
     "genus": "Serranus",
     "max_length_cm": 40,
     "frequency": 54.1667,
-    "abundance": 4.8314,
+    "abundance": 4.8226,
     "similar_species_slugs": [
       "serranus-atricauda",
       "serranus-scriba"
@@ -181181,8 +181181,8 @@
     "class": "Actinopterygii",
     "family": "Serranidae",
     "genus": "Serranus",
-    "frequency": 4.2857,
-    "abundance": 1.3077,
+    "frequency": 4.7619,
+    "abundance": 1.2857,
     "photos": [
       {
         "location": "Melilla",
@@ -181274,7 +181274,7 @@
     "genus": "Serranus",
     "max_length_cm": 36,
     "frequency": 63.5731,
-    "abundance": 3.7377,
+    "abundance": 3.7306,
     "similar_species_slugs": [
       "serranus-atricauda",
       "serranus-cabrilla"
@@ -183995,8 +183995,8 @@
     "family": "Scaridae",
     "genus": "Sparisoma",
     "max_length_cm": 50,
-    "frequency": 26.3529,
-    "abundance": 11.5399,
+    "frequency": 27.2941,
+    "abundance": 11.3795,
     "photos": [
       {
         "location": "Canary Islands, Spain",
@@ -184467,8 +184467,8 @@
     "family": "Toxopneustidae",
     "genus": "Sphaerechinus",
     "max_length_cm": 12,
-    "frequency": 40.1376,
-    "abundance": 4.5195,
+    "frequency": 40.5963,
+    "abundance": 4.4981,
     "photos": [
       {
         "location": "Naples, Italy",
@@ -185372,8 +185372,8 @@
     "family": "Sparidae",
     "genus": "Spondyliosoma",
     "max_length_cm": 60,
-    "frequency": 35.7513,
-    "abundance": 9.1627,
+    "frequency": 36.0104,
+    "abundance": 9.2412,
     "similar_species_slugs": [
       "diplodus-annularis"
     ],
@@ -187221,6 +187221,20 @@
     "family": "Stenopodidae",
     "genus": "Stenopus",
     "frequency": 3.7037,
+    "abundance": 1,
+    "methods": [
+      2
+    ]
+  },
+  {
+    "scientific_name": "Stenopus spinosus",
+    "slug": "stenopus-spinosus",
+    "main_common_name": "Golden Coral Shrimp",
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "family": "Stenopodidae",
+    "genus": "Stenopus",
+    "frequency": 100,
     "abundance": 1,
     "methods": [
       2
@@ -190002,7 +190016,7 @@
     "genus": "Symphodus",
     "max_length_cm": 10,
     "frequency": 36.4548,
-    "abundance": 3.7537,
+    "abundance": 3.7297,
     "similar_species_slugs": [
       "symphodus-tinca"
     ],
@@ -190036,7 +190050,7 @@
     "genus": "Symphodus",
     "max_length_cm": 18,
     "frequency": 77.4744,
-    "abundance": 2.812,
+    "abundance": 2.7992,
     "similar_species_slugs": [
       "symphodus-cinereus",
       "symphodus-ocellatus",
@@ -190096,8 +190110,8 @@
     "genus": "Symphodus",
     "description": "Colourful males highly similar to <em>Centrolabrus exoletus</em>, but differ in distribution - the latter not found in the Mediterranean.",
     "max_length_cm": 14,
-    "frequency": 20.6522,
-    "abundance": 2.122,
+    "frequency": 22.4638,
+    "abundance": 2.0781,
     "min_sea_temperature": 11.573,
     "max_sea_temperature": 26.72315,
     "confidence": "moderate confidence",
@@ -190200,7 +190214,7 @@
     "genus": "Symphodus",
     "max_length_cm": 12,
     "frequency": 67.9365,
-    "abundance": 21.0602,
+    "abundance": 21.0223,
     "similar_species_slugs": [
       "symphodus-mediterraneus",
       "symphodus-tinca"
@@ -190253,7 +190267,7 @@
     "genus": "Symphodus",
     "max_length_cm": 17,
     "frequency": 61.6071,
-    "abundance": 3.0238,
+    "abundance": 3.0163,
     "similar_species_slugs": [
       "centrolabrus-trutta",
       "symphodus-cinereus",
@@ -190297,7 +190311,7 @@
     "genus": "Symphodus",
     "max_length_cm": 13,
     "frequency": 44.2105,
-    "abundance": 1.4956,
+    "abundance": 1.4934,
     "photos": [
       {
         "location": "Banyuls, France",
@@ -190335,7 +190349,7 @@
     "genus": "Symphodus",
     "max_length_cm": 44,
     "frequency": 80.5158,
-    "abundance": 9.0172,
+    "abundance": 8.9969,
     "similar_species_slugs": [
       "centrolabrus-trutta",
       "symphodus-cinereus",
@@ -194827,7 +194841,7 @@
     "genus": "Thalassoma",
     "max_length_cm": 25,
     "frequency": 84.7059,
-    "abundance": 38.6647,
+    "abundance": 38.4583,
     "photos": [
       {
         "location": "Canary Islands, Spain",
