@@ -94670,8 +94670,8 @@
     "family": "Echinasteridae",
     "genus": "Henricia",
     "max_length_cm": 20,
-    "frequency": 42,
-    "abundance": 5.5532,
+    "frequency": 45.8333,
+    "abundance": 9.2973,
     "photos": [
       {
         "location": "San Diego, CA",
@@ -107462,20 +107462,6 @@
     ]
   },
   {
-    "scientific_name": "Leptasterias hexactis",
-    "slug": "leptasterias-hexactis",
-    "main_common_name": "Six-rayed star",
-    "phylum": "Echinodermata",
-    "class": "Asteroidea",
-    "family": "Asteriidae",
-    "genus": "Leptasterias",
-    "frequency": 18.5185,
-    "abundance": 6.3636,
-    "methods": [
-      2
-    ]
-  },
-  {
     "scientific_name": "Leptasterias polaris",
     "slug": "leptasterias-polaris",
     "phylum": "Echinodermata",
@@ -120192,46 +120178,6 @@
     ],
     "methods": [
       1
-    ]
-  },
-  {
-    "scientific_name": "Montereina nobilis",
-    "slug": "montereina-nobilis",
-    "main_common_name": "Sea lemon",
-    "superseded_names": [
-      "Peltodoris nobilis"
-    ],
-    "phylum": "Mollusca",
-    "class": "Gastropoda",
-    "family": "Discodorididae",
-    "genus": "Montereina",
-    "description": "<p>Body is yellow with paler yellow tubercles showing through dark patches on the body. Dark patches never extend onto the tubercles, as seen in <a href=\"https://reeflifesurvey.com/species/doris-montereyensis/\"><em>Doris montereyensis</em></a>.&nbsp;</p>",
-    "max_length_cm": 20,
-    "frequency": 34.9398,
-    "abundance": 1.6304,
-    "min_sea_temperature": 11.8808,
-    "max_sea_temperature": 19.586,
-    "confidence": "incomplete data",
-    "threat_status": "Not Evaluated",
-    "editor_name": "Jo Schmid",
-    "photos": [
-      {
-        "location": "British Columbia, Canada",
-        "photographer": "Em Lim",
-        "large_url": "https://images.reeflifesurvey.com/1/species_e7_64d5b128244f9.w1000.h666.jpg",
-        "medium_url": "https://images.reeflifesurvey.com/1/species_e7_64d5b128244f9.w400.h266.jpg",
-        "small_url": "https://images.reeflifesurvey.com/1/species_e7_64d5b128244f9.w130.h87.jpg"
-      },
-      {
-        "location": "British Columbia, Canada",
-        "photographer": "Jasmin Schuster",
-        "large_url": "https://images.reeflifesurvey.com/1/species_71_64d5bd606ae92.w1000.h666.jpg",
-        "medium_url": "https://images.reeflifesurvey.com/1/species_71_64d5bd606ae92.w400.h266.jpg",
-        "small_url": "https://images.reeflifesurvey.com/1/species_71_64d5bd606ae92.w130.h87.jpg"
-      }
-    ],
-    "methods": [
-      2
     ]
   },
   {
@@ -148736,7 +148682,7 @@
     "family": "Facelinidae",
     "genus": "Phidiana",
     "max_length_cm": 5,
-    "frequency": 16.6667,
+    "frequency": 100,
     "abundance": 1,
     "methods": [
       2

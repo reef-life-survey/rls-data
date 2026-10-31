@@ -29061,13 +29061,6 @@
       "https://images.reeflifesurvey.com/0/species_9c_599a42fc5432f.w1000.h666.JPG"
     ]
   ],
-  "Leptasterias hexactis": [
-    "Leptasterias hexactis",
-    "Six-rayed star",
-    "https://reeflifesurvey.com/species/leptasterias-hexactis/",
-    1,
-    []
-  ],
   "Leptasterias polaris": [
     "Leptasterias polaris",
     "",
@@ -32498,16 +32491,6 @@
       "https://images.reeflifesurvey.com/0/species_f5_573e3daba4932.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_10_58d87e84b6798.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_9d_573e3dba4af60.w1000.h666.JPG"
-    ]
-  ],
-  "Montereina nobilis": [
-    "Montereina nobilis",
-    "Sea lemon",
-    "https://reeflifesurvey.com/species/montereina-nobilis/",
-    1,
-    [
-      "https://images.reeflifesurvey.com/1/species_e7_64d5b128244f9.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_71_64d5bd606ae92.w1000.h666.jpg"
     ]
   ],
   "Mopalia muscosa": [
@@ -39509,6 +39492,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_de_573818770564d.w1000.h666.jpg"
     ]
+  ],
+  "Peltodoris nobilis": [
+    "Peltodoris nobilis",
+    "",
+    null,
+    1,
+    []
   ],
   "Pempheris adspersa": [
     "Pempheris adspersa",
