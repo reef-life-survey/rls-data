@@ -1988,8 +1988,8 @@
     "family": "Onchidorididae",
     "genus": "Acanthodoris",
     "description": "<p>Characterised by long hair-like papillae tipped in yellow, and a yellow rimmed mantle. Body is translucent white in colour, and up to 4cm in length.</p>",
-    "frequency": 37.5,
-    "abundance": 1.8571,
+    "frequency": 36.3636,
+    "abundance": 1.8182,
     "confidence": "high confidence",
     "threat_status": "Critically Endangered",
     "editor_name": "Jo Schmid",
@@ -2029,8 +2029,8 @@
     "family": "Onchidorididae",
     "genus": "Acanthodoris",
     "description": "<p>Body is white or grey with yellow-tipped papillae and a yellow border around the mantle edge. Distinguished from&nbsp;<em><a href=\"https://reeflifesurvey.com/species/acanthodoris-hudsoni/\">Acanthodoris hudsoni</a></em> by maroon-tipped gills and rhinophores. Amount of maroon colouration is variable between individuals.</p>",
-    "frequency": 11.1111,
-    "abundance": 1.2857,
+    "frequency": 14.2857,
+    "abundance": 1.2222,
     "confidence": "high confidence",
     "threat_status": "Critically Endangered",
     "editor_name": "Jo Schmid",
@@ -4538,8 +4538,8 @@
     "genus": "Acmaea",
     "description": "<p>Shell is white but often coated in encrusting coralline algae. This limpet is diagnostically tall and conical, and the apex is skewed slightly anterioirly from the centre of the shell.&nbsp;</p>",
     "max_length_cm": 4,
-    "frequency": 66.2338,
-    "abundance": 14.1491,
+    "frequency": 67.0886,
+    "abundance": 14.8405,
     "min_sea_temperature": 5.267,
     "max_sea_temperature": 16.683,
     "confidence": "incomplete data",
@@ -9025,16 +9025,16 @@
       {
         "location": "Maldives",
         "photographer": "Rick Stuart-Smith",
-        "large_url": "https://images.reeflifesurvey.com/0/species_a4_5847bf5024c16.w1000.h666.jpg",
-        "medium_url": "https://images.reeflifesurvey.com/0/species_a4_5847bf5024c16.w400.h266.jpg",
-        "small_url": "https://images.reeflifesurvey.com/0/species_a4_5847bf5024c16.w130.h87.jpg"
+        "large_url": "https://images.reeflifesurvey.com/1/species_77_619b081504438.w1000.h666.jpg",
+        "medium_url": "https://images.reeflifesurvey.com/1/species_77_619b081504438.w400.h266.jpg",
+        "small_url": "https://images.reeflifesurvey.com/1/species_77_619b081504438.w130.h87.jpg"
       },
       {
         "location": "Maldives",
         "photographer": "Rick Stuart-Smith",
-        "large_url": "https://images.reeflifesurvey.com/1/species_77_619b081504438.w1000.h666.jpg",
-        "medium_url": "https://images.reeflifesurvey.com/1/species_77_619b081504438.w400.h266.jpg",
-        "small_url": "https://images.reeflifesurvey.com/1/species_77_619b081504438.w130.h87.jpg"
+        "large_url": "https://images.reeflifesurvey.com/0/species_a4_5847bf5024c16.w1000.h666.jpg",
+        "medium_url": "https://images.reeflifesurvey.com/0/species_a4_5847bf5024c16.w400.h266.jpg",
+        "small_url": "https://images.reeflifesurvey.com/0/species_a4_5847bf5024c16.w130.h87.jpg"
       },
       {
         "location": "Maldives",
@@ -9418,7 +9418,7 @@
     "genus": "Amphissa",
     "description": "<p>Ribs run parallel to the shell's central axis, distinguishing this species from <em>Amphissa versicolor</em>, where ribs run at a significant angle to the axis. Significant individual variation in shell dimensions and colour.&nbsp;</p>",
     "frequency": 44.4444,
-    "abundance": 1.25,
+    "abundance": 2,
     "confidence": "high confidence",
     "threat_status": "Critically Endangered",
     "editor_name": "Jo Schmid",
@@ -10233,8 +10233,8 @@
     "genus": "Anarrhichthys",
     "description": "<p>Reaching a maximum length of 240cm, adults can be found seeking shelter among rocks in subtidal areas, and both males and females guard eggs. Juveniles are pelagic for up to two years.</p>",
     "max_length_cm": 240,
-    "frequency": 9.3333,
-    "abundance": 1.3333,
+    "frequency": 11.6883,
+    "abundance": 1.2941,
     "min_sea_temperature": 3.1924,
     "max_sea_temperature": 29.725,
     "confidence": "moderate confidence",
@@ -11059,7 +11059,7 @@
     "class": "Teleostei",
     "family": "Stichaeidae",
     "genus": "Anoplarchus",
-    "frequency": 33.3333,
+    "frequency": 25,
     "abundance": 1,
     "methods": [
       1,
@@ -11074,7 +11074,7 @@
     "class": "Teleostei",
     "family": "Stichaeidae",
     "genus": "Anoplarchus",
-    "frequency": 14.2857,
+    "frequency": 13.6364,
     "abundance": 1,
     "methods": [
       1,
@@ -11829,8 +11829,8 @@
     "family": "Janolidae",
     "genus": "Antiopella",
     "description": "<p>Cerata have brown cores with orange ends tipped in white. Head exhibits a red stripe, but unlike the similar&nbsp;<em><a href=\"https://reeflifesurvey.com/species/hermissenda-crassicornis/\">Hermissenda crassicornis</a>, </em>the cerata extend beyond the rhinophores.&nbsp;</p>",
-    "frequency": 32.6923,
-    "abundance": 1.5,
+    "frequency": 31.4815,
+    "abundance": 1.4848,
     "confidence": "high confidence",
     "threat_status": "Critically Endangered",
     "editor_name": "Jo Schmid",
@@ -13128,7 +13128,7 @@
     "family": "Pholidae",
     "genus": "Apodichthys",
     "description": "<p>Thought to depend on the colour of its amphipod prey, individuals may present in one of three colour phases; red, emerald green, and gold-brown. Dark dots form a broken line along midside of body. Light spots may also be present. A narrow dark line runs above and below (sometimes through) the eye, extending toward the operculum.&nbsp;</p>",
-    "frequency": 16.3265,
+    "frequency": 15.6863,
     "abundance": 1.1333,
     "confidence": "high confidence",
     "threat_status": "Not Evaluated",
@@ -13980,8 +13980,8 @@
     "family": "Stichopodidae",
     "genus": "Apostichopus",
     "description": "<p>Body length ranges from 25-40cm. Dorsal and lateral surfaces dark red, brown, or yellow with large conical papillae usually paler than the body surface and tipped with red. Tube feet are densely arranged on the ventral side, with three distinct pairs of rows. Similar species&nbsp;<a href=\"https://reeflifesurvey.com/species/apostichopus-parvimensis/\"><em>A. parvimenus</em></a> extending south from Monterey Bay is chestnut brown dorsally, and much paler ventrally with black-tipped papillae.&nbsp;</p>",
-    "frequency": 83.5165,
-    "abundance": 14.789,
+    "frequency": 83.871,
+    "abundance": 14.979,
     "min_sea_temperature": -1.178,
     "max_sea_temperature": 18.611,
     "confidence": "high confidence",
@@ -15383,7 +15383,7 @@
     "family": "Arminidae",
     "genus": "Armina",
     "description": "<p>Grows to 75mm, inhabiting sand or muddy substrates and feeding on sea pens. Thin brown and white stripes along the body. White stripes are raised, giving the dorsum a ridged appearance. Gills are hidden, making the club-shaped rhinophores the only visible projections.&nbsp;</p>",
-    "frequency": 100,
+    "frequency": 12.5,
     "abundance": 1,
     "confidence": "high confidence",
     "threat_status": "Not Evaluated",
@@ -16152,8 +16152,8 @@
     "class": "Teleostei",
     "family": "Cottidae",
     "genus": "Artedius",
-    "frequency": 33.3333,
-    "abundance": 1,
+    "frequency": 20,
+    "abundance": 1.5,
     "methods": [
       1,
       2
@@ -16169,8 +16169,8 @@
     "genus": "Artedius",
     "description": "<p>Colouration extremely variable between individuals. Adult males exhibit a large flap of skin (cirrus) behind each eye, are territorial, and will guard eggs. High degree of sexual dimorphism making females and juveniles more difficult to identify.&nbsp;</p>",
     "max_length_cm": 10,
-    "frequency": 72.3684,
-    "abundance": 3.9855,
+    "frequency": 73.0769,
+    "abundance": 3.88,
     "min_sea_temperature": 0.71275,
     "max_sea_temperature": 17.49,
     "confidence": "incomplete data",
@@ -16213,8 +16213,8 @@
     "family": "Cottidae",
     "genus": "Artedius",
     "description": "<p>Lacks scales on its head. Occurs interdially and may remain out of water under rocks and seaweeds, also found down to 13m depth.&nbsp;</p>",
-    "frequency": 14.8148,
-    "abundance": 1.3846,
+    "frequency": 17.8571,
+    "abundance": 1.3333,
     "confidence": "high confidence",
     "threat_status": "Critically Endangered",
     "editor_name": "Jo Schmid",
@@ -16550,7 +16550,7 @@
     "class": "Teleostei",
     "family": "Cottidae",
     "genus": "Ascelichthys",
-    "frequency": 28.5714,
+    "frequency": 16.6667,
     "abundance": 1,
     "methods": [
       1,
@@ -16566,8 +16566,8 @@
     "family": "Cottidae",
     "genus": "Asemichthys",
     "description": "<p>Olive brown dorsally, and lighter ventrally. Dark dorsal saddles are blue edged, and a light band followed by a dark band are seen along the underside of the head.&nbsp;</p>",
-    "frequency": 25,
-    "abundance": 1.1667,
+    "frequency": 23.5294,
+    "abundance": 1.1429,
     "confidence": "high confidence",
     "threat_status": "Not Evaluated",
     "editor_name": "Jo Schmid",
@@ -19113,8 +19113,8 @@
     "family": "Aulorhynchidae",
     "genus": "Aulorhynchus",
     "max_length_cm": 18,
-    "frequency": 21.2766,
-    "abundance": 63.6078,
+    "frequency": 20.8333,
+    "abundance": 64.5273,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -22574,7 +22574,7 @@
     "class": "Tentaculata",
     "family": "Bolinopsidae",
     "genus": "Bolinopsis",
-    "frequency": 16.2162,
+    "frequency": 16,
     "abundance": 1.8889,
     "methods": [
       1
@@ -22769,7 +22769,7 @@
     "class": "Gastropoda",
     "family": "Pleurobranchidae",
     "genus": "Boreoberthella",
-    "frequency": 16.3934,
+    "frequency": 15.873,
     "abundance": 1.375,
     "photos": [
       {
@@ -22895,6 +22895,21 @@
         "small_url": "https://images.reeflifesurvey.com/0/species_79_589281f24935e.w130.h87.JPG"
       }
     ],
+    "methods": [
+      1,
+      2
+    ]
+  },
+  {
+    "scientific_name": "Bothragonus swanii",
+    "slug": "bothragonus-swanii",
+    "main_common_name": "Rockhead",
+    "phylum": "Chordata",
+    "class": "Teleostei",
+    "family": "Agonidae",
+    "genus": "Bothragonus",
+    "frequency": 50,
+    "abundance": 1,
     "methods": [
       1,
       2
@@ -23509,8 +23524,8 @@
     "genus": "Brachyistius",
     "description": "<p>Colour ranges from olive brown to coppery above lateral line with dark pigment beneath scales. Body is brighter beneath lateral line, and fins are pale or rosy. Cleaning behaviour (picking external parasites from larger fishes) has been documented at the southern end of its range, but not the north.&nbsp;</p>",
     "max_length_cm": 22,
-    "frequency": 29.5918,
-    "abundance": 7.7681,
+    "frequency": 30,
+    "abundance": 7.3291,
     "min_sea_temperature": 6.804,
     "max_sea_temperature": 21.913,
     "confidence": "incomplete data",
@@ -24690,6 +24705,20 @@
     ]
   },
   {
+    "scientific_name": "Cadlina jannanicholsae",
+    "slug": "cadlina-jannanicholsae",
+    "main_common_name": "Yellow-edged Cadlina",
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "family": "Cadlinidae",
+    "genus": "Cadlina",
+    "frequency": 100,
+    "abundance": 1,
+    "methods": [
+      2
+    ]
+  },
+  {
     "scientific_name": "Cadlina luteomarginata",
     "slug": "cadlina-luteomarginata",
     "main_common_name": "Yellow-edge cadlina",
@@ -24699,8 +24728,8 @@
     "genus": "Cadlina",
     "description": "<p>Body is white with yellow capped tubercles, a yellow mantle border, and yelllow-tipped gills and rhinophores. Some individuals may lack some of the typical yellow markings, although the yellow mantle border is always present. Found on the west coast of North America from Alaska to Mexico.&nbsp;</p>",
     "max_length_cm": 5,
-    "frequency": 30.5882,
-    "abundance": 2.6716,
+    "frequency": 32.1839,
+    "abundance": 2.625,
     "min_sea_temperature": 5.267,
     "max_sea_temperature": 22.136,
     "confidence": "incomplete data",
@@ -24742,8 +24771,8 @@
     "family": "Cadlinidae",
     "genus": "Cadlina",
     "description": "<p>Characteristic band of yellow-tipped glands around the mantle skirt a distance away from the outer mantle margin, the forward-most of these extend ahead of the rhinophores. Rhinophores and circlar gills are usually pale yellow, which can distinguish this species from <em>Cadlina flavomaculata</em> which exhibits black or dark brown rhinophores and also occurs in the Pacific North West.&nbsp;</p>",
-    "frequency": 13.3333,
-    "abundance": 1.7,
+    "frequency": 13.7255,
+    "abundance": 1.6923,
     "confidence": "high confidence",
     "threat_status": "Not Evaluated",
     "editor_name": "Jo Schmid",
@@ -24784,8 +24813,8 @@
     "family": "Cadlinidae",
     "genus": "Cadlina",
     "description": "<p>Body opaque whitish, with some small pointed dorsal tubercles tipped with yellow. Mantle is edged in yellow. Rhinophores with slight yellow tint. Circular gills are semitransparent white and can be retracted into gill cavity.&nbsp;</p>",
-    "frequency": 54.5455,
-    "abundance": 1.4706,
+    "frequency": 59.0909,
+    "abundance": 1.6316,
     "confidence": "high confidence",
     "threat_status": "Not Evaluated",
     "editor_name": "Jo Schmid",
@@ -26685,7 +26714,7 @@
     "class": "Gastropoda",
     "family": "Calliostomatidae",
     "genus": "Calliostoma",
-    "frequency": 22.619,
+    "frequency": 22.093,
     "abundance": 99.5,
     "photos": [
       {
@@ -27562,8 +27591,8 @@
     "family": "Cancridae",
     "genus": "Cancer",
     "max_length_cm": 20,
-    "frequency": 66.6667,
-    "abundance": 1.541,
+    "frequency": 68.9189,
+    "abundance": 1.6643,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -34031,8 +34060,8 @@
     "family": "Muricidae",
     "genus": "Ceratostoma",
     "max_length_cm": 9,
-    "frequency": 68,
-    "abundance": 12.044,
+    "frequency": 68.6275,
+    "abundance": 12.3312,
     "photos": [
       {
         "location": "Monterey, USA",
@@ -40940,8 +40969,8 @@
     "class": "Teleostei",
     "family": "Stichaeidae",
     "genus": "Chirolophis",
-    "frequency": 25,
-    "abundance": 1,
+    "frequency": 23.6842,
+    "abundance": 1.0667,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -41195,8 +41224,8 @@
     "class": "Bivalvia",
     "family": "Pectinidae",
     "genus": "Chlamys",
-    "frequency": 21.4286,
-    "abundance": 1.7857,
+    "frequency": 34.7826,
+    "abundance": 3.08,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -41233,7 +41262,7 @@
     "family": "Pectinidae",
     "genus": "Chlamys",
     "max_length_cm": 7,
-    "frequency": 13.7931,
+    "frequency": 13.3333,
     "abundance": 1.9,
     "methods": [
       2
@@ -42835,8 +42864,8 @@
     "family": "Epialtidae",
     "genus": "Chorilia",
     "description": "<p>Rostrum over half as long as carapace and composed of two slender processes which diverge from one another across most of their length. No prominent spine behind each eye, as in similar species <a href=\"https://reeflifesurvey.com/species/oregonia-gracilis/\"><em>Oregonia gracilis</em></a>, but with a forward-projecting spine in front of the eye at the base of the rostrum. Carapace is pear-shaped and white, with width up to 4.5cm. Legs are long, rounded in cross-section, and red with white banding.&nbsp;</p>",
-    "frequency": 26.5306,
-    "abundance": 1.8125,
+    "frequency": 27.451,
+    "abundance": 1.7647,
     "confidence": "high confidence",
     "threat_status": "Not Evaluated",
     "editor_name": "Jo Schmid",
@@ -48201,8 +48230,8 @@
     "family": "Paralichthyidae",
     "genus": "Citharichthys",
     "max_length_cm": 17,
-    "frequency": 13.6364,
-    "abundance": 4.9286,
+    "frequency": 14.7059,
+    "abundance": 4.4118,
     "methods": [
       1,
       2
@@ -48673,8 +48702,8 @@
     "class": "Teleostei",
     "family": "Cottidae",
     "genus": "Clinocottus",
-    "frequency": 50,
-    "abundance": 1,
+    "frequency": 30,
+    "abundance": 1.5,
     "methods": [
       1,
       2
@@ -48872,8 +48901,8 @@
     "class": "Teleostei",
     "family": "Clupeidae",
     "genus": "Clupea",
-    "frequency": 18.75,
-    "abundance": 473.786,
+    "frequency": 20,
+    "abundance": 1664.56,
     "methods": [
       1
     ]
@@ -53057,6 +53086,20 @@
     ]
   },
   {
+    "scientific_name": "Coryphella longicaudata",
+    "slug": "coryphella-longicaudata",
+    "main_common_name": "Red-fingered Coryphella",
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "family": "Flabellinidae",
+    "genus": "Coryphella",
+    "frequency": 19.0476,
+    "abundance": 2.2857,
+    "methods": [
+      2
+    ]
+  },
+  {
     "scientific_name": "Coryphella trilineata",
     "slug": "coryphella-trilineata",
     "main_common_name": "Three-lined aeolid",
@@ -53065,8 +53108,8 @@
     "family": "Coryphellidae",
     "genus": "Coryphella",
     "description": "<p>Three white lines run along the top of the translucent body forming a 'Y' shape down the oral tentacles, although may be absent in juveniles. Red-orange cerata are in isolated clumps, and rhinophores and oral tentacles may be white, translucent, or with orange accents toward the tips. Unlike similar species <a href=\"https://reeflifesurvey.com/species/hermissenda-crassicornis/\"><em>Hermissenda crassicornis</em></a> cerata are not lined with white, are often uniformly orange in colour, or red with orange tips.&nbsp;</p>",
-    "frequency": 30.2326,
-    "abundance": 4,
+    "frequency": 33.3333,
+    "abundance": 3.5385,
     "confidence": "high confidence",
     "threat_status": "Not Evaluated",
     "editor_name": "Jo Schmid",
@@ -53095,8 +53138,8 @@
     "family": "Coryphellidae",
     "genus": "Coryphella",
     "description": "<p>Body and cerata are translucent white with ceratal core ranging from pink to dark brown or grey depending on the individual's diet. Cerata are capped with opaque white, and a white line runs up the posterior side of rhinophores and oral tentacles.&nbsp;</p>",
-    "frequency": 22.2222,
-    "abundance": 15.1,
+    "frequency": 18.6047,
+    "abundance": 17,
     "min_sea_temperature": 6.875,
     "max_sea_temperature": 17.406,
     "confidence": "incomplete data",
@@ -53125,8 +53168,8 @@
     "class": "Gastropoda",
     "family": "Coryphellidae",
     "genus": "Coryphella",
-    "frequency": 16.3636,
-    "abundance": 1.8333,
+    "frequency": 50,
+    "abundance": 1,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -54381,8 +54424,8 @@
     "genus": "Crassadoma",
     "description": "<p>Mantle is orange but may be pale in some individuals, lined with many tiny black eyes. Small juveniles are free-swimming.&nbsp;</p>",
     "max_length_cm": 25,
-    "frequency": 66.3043,
-    "abundance": 6.8022,
+    "frequency": 67.0213,
+    "abundance": 7.6089,
     "min_sea_temperature": 13.3,
     "max_sea_temperature": 22.136,
     "confidence": "moderate confidence",
@@ -55056,8 +55099,8 @@
     "family": "Solasteridae",
     "genus": "Crossaster",
     "max_length_cm": 30,
-    "frequency": 23.2877,
-    "abundance": 1.5833,
+    "frequency": 25.6757,
+    "abundance": 1.5,
     "photos": [
       {
         "location": "Oban, Scotland",
@@ -55685,7 +55728,7 @@
     "class": "Malacostraca",
     "family": "Lithodidae",
     "genus": "Cryptolithodes",
-    "frequency": 14.2857,
+    "frequency": 13.5135,
     "abundance": 1,
     "photos": [
       {
@@ -55708,8 +55751,8 @@
     "class": "Malacostraca",
     "family": "Lithodidae",
     "genus": "Cryptolithodes",
-    "frequency": 22.5806,
-    "abundance": 1.4444,
+    "frequency": 19.5122,
+    "abundance": 1.4,
     "photos": [
       {
         "location": "Vancouver, Canada",
@@ -56642,7 +56685,7 @@
     "family": "Cucumariidae",
     "genus": "Cucumaria",
     "max_length_cm": 25,
-    "frequency": 10,
+    "frequency": 9.7222,
     "abundance": 23.8636,
     "photos": [
       {
@@ -57464,7 +57507,7 @@
     "family": "Embiotocidae",
     "genus": "Cymatogaster",
     "max_length_cm": 21,
-    "frequency": 23.1707,
+    "frequency": 22.619,
     "abundance": 68,
     "photos": [
       {
@@ -59772,8 +59815,8 @@
     "family": "Dendronotidae",
     "genus": "Dendronotus",
     "max_length_cm": 4,
-    "frequency": 5.9701,
-    "abundance": 1.2,
+    "frequency": 7.2464,
+    "abundance": 1.1667,
     "photos": [
       {
         "photographer": "Graham Edgar",
@@ -59821,8 +59864,8 @@
     "family": "Dendronotidae",
     "genus": "Dendronotus",
     "max_length_cm": 20,
-    "frequency": 27.027,
-    "abundance": 2.5769,
+    "frequency": 26.3158,
+    "abundance": 2.3125,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -59938,8 +59981,8 @@
     "family": "Asteropseidae",
     "genus": "Dermasterias",
     "max_length_cm": 30,
-    "frequency": 79,
-    "abundance": 10.7282,
+    "frequency": 79.4118,
+    "abundance": 11.0036,
     "photos": [
       {
         "location": "Monterey, USA",
@@ -60672,8 +60715,8 @@
     "family": "Discodorididae",
     "genus": "Diaulula",
     "description": "<p>Ranges from Korea and Oganawa, Japan to the Pacific coast of North America towards Bodega Bay, California. Once thought to be the same species as&nbsp;<a href=\"https://reeflifesurvey.com/species/diaulula-sandiegensis/\"><em>D. sandiegensis</em></a>, however <em>D. odonoghuei</em> is distinguished by a large number of chocolate-brown spots extending to the mantle margin<em>. </em>While their ranges largely overlap,&nbsp;<a href=\"https://reeflifesurvey.com/species/diaulula-sandiegensis/\"><em>D. sandiegensis</em></a> is restricted to the Pacific coast of North America.&nbsp;</p>",
-    "frequency": 36.5385,
-    "abundance": 1.2683,
+    "frequency": 37.037,
+    "abundance": 1.2826,
     "confidence": "high confidence",
     "threat_status": "Critically Endangered",
     "editor_name": "Jo Schmid",
@@ -60723,8 +60766,8 @@
     "genus": "Diaulula",
     "description": "<p>Mantle colour ranges from white, yellow, orange, to dark brown. Chocolate brown ring-shaped spots are seen on the central dorsum only and spots do not extend to the outer mantle margin as seen in <a href=\"https://reeflifesurvey.com/species/diaulula-odonoghuei/\"><em>Diaulula odonoghuei</em></a> which was once thought to be the same species. Both similar species overlap in range along the Pacific coast of North America. <em>D. sandiegensis</em> has the more restricted range of the two, found from Baja California to Barkley Sound, British Columbia.&nbsp;</p>",
     "max_length_cm": 10,
-    "frequency": 31.8681,
-    "abundance": 1.7901,
+    "frequency": 32.2581,
+    "abundance": 1.7368,
     "min_sea_temperature": 12.21905,
     "max_sea_temperature": 21.397,
     "confidence": "incomplete data",
@@ -61381,8 +61424,8 @@
     "family": "Fissurellidae",
     "genus": "Diodora",
     "description": "<p>Shell can exhibit coarse radial ribs, and at the apex is a round or broadly oval anal opening. The shell is nearly entirely exposed, with the mantle covering the very edge of the shell in live animals.&nbsp;</p>",
-    "frequency": 60.8696,
-    "abundance": 5.4685,
+    "frequency": 61.9718,
+    "abundance": 5.3801,
     "confidence": "high confidence",
     "threat_status": "Not Evaluated",
     "editor_name": "Jo Schmid",
@@ -62371,8 +62414,8 @@
     "genus": "Dirona",
     "description": "<p>Named for the white edging around the pointed cerata, this species will readily shed all cerata when stressed. Body and fleshy processes are translucent white to pink or orange-tinged. The frontal veil is also edged in white, and a white stripe extends along the tail.&nbsp;</p>",
     "max_length_cm": 18,
-    "frequency": 44.0678,
-    "abundance": 1.9024,
+    "frequency": 44.2623,
+    "abundance": 1.8261,
     "min_sea_temperature": 1.8181,
     "max_sea_temperature": 17.487,
     "confidence": "incomplete data",
@@ -62798,8 +62841,8 @@
     "class": "Malacostraca",
     "family": "Paguridae",
     "genus": "Discorsopagurus",
-    "frequency": 27.027,
-    "abundance": 1.7333,
+    "frequency": 33.3333,
+    "abundance": 1.8,
     "methods": [
       2
     ]
@@ -63470,8 +63513,8 @@
     "family": "Dorididae",
     "genus": "Doris",
     "description": "<p>Body is yellow with dark speckles extending to the mantle edge. Black spots also extend onto some tubercles rather than appearing only between tubercles as seen in <a href=\"https://reeflifesurvey.com/species/montereina-nobilis/\"><em>Montereina nobilis</em><em></em></a>.&nbsp;</p>",
-    "frequency": 46.0317,
-    "abundance": 1.4737,
+    "frequency": 44.6154,
+    "abundance": 1.4426,
     "confidence": "high confidence",
     "threat_status": "Critically Endangered",
     "editor_name": "Jo Schmid",
@@ -63511,8 +63554,8 @@
     "family": "Dorididae",
     "genus": "Doris",
     "max_length_cm": 20,
-    "frequency": 32.3529,
-    "abundance": 1.3556,
+    "frequency": 35.7143,
+    "abundance": 1.3265,
     "photos": [
       {
         "photographer": "Graham Edgar",
@@ -64440,12 +64483,45 @@
     "scientific_name": "Echidnocerus cibarius",
     "slug": "echidnocerus-cibarius",
     "main_common_name": "Puget sound king crab",
+    "superseded_names": [
+      "Lopholithodes mandtii"
+    ],
     "phylum": "Arthropoda",
     "class": "Malacostraca",
     "family": "Lithodidae",
     "genus": "Echidnocerus",
-    "frequency": 23.8095,
-    "abundance": 1.2,
+    "frequency": 20,
+    "abundance": 1.375,
+    "photos": [
+      {
+        "location": "British Columbia, Canada",
+        "photographer": "Em Lim",
+        "large_url": "https://images.reeflifesurvey.com/1/species_53_64ef083180874.w1000.h666.jpg",
+        "medium_url": "https://images.reeflifesurvey.com/1/species_53_64ef083180874.w400.h266.jpg",
+        "small_url": "https://images.reeflifesurvey.com/1/species_53_64ef083180874.w130.h87.jpg"
+      },
+      {
+        "location": "British Columbia, Canada",
+        "photographer": "Em Lim",
+        "large_url": "https://images.reeflifesurvey.com/1/species_0e_64ef082fd5c42.w1000.h666.jpg",
+        "medium_url": "https://images.reeflifesurvey.com/1/species_0e_64ef082fd5c42.w400.h266.jpg",
+        "small_url": "https://images.reeflifesurvey.com/1/species_0e_64ef082fd5c42.w130.h87.jpg"
+      },
+      {
+        "location": "British Columbia, Canada",
+        "photographer": "Jasmin Schuster",
+        "large_url": "https://images.reeflifesurvey.com/1/species_5d_64ef09a24bde5.w1000.h666.jpg",
+        "medium_url": "https://images.reeflifesurvey.com/1/species_5d_64ef09a24bde5.w400.h266.jpg",
+        "small_url": "https://images.reeflifesurvey.com/1/species_5d_64ef09a24bde5.w130.h87.jpg"
+      },
+      {
+        "location": "British Columbia, Canada",
+        "photographer": "Valesca de Groot",
+        "large_url": "https://images.reeflifesurvey.com/1/species_ad_64f43482e952d.w1000.h666.jpg",
+        "medium_url": "https://images.reeflifesurvey.com/1/species_ad_64f43482e952d.w400.h266.jpg",
+        "small_url": "https://images.reeflifesurvey.com/1/species_ad_64f43482e952d.w130.h87.jpg"
+      }
+    ],
     "methods": [
       2
     ]
@@ -67443,7 +67519,7 @@
     "family": "Paguridae",
     "genus": "Elassochirus",
     "frequency": 50,
-    "abundance": 1.75,
+    "abundance": 1.8,
     "methods": [
       2
     ]
@@ -67953,8 +68029,8 @@
     "family": "Embiotocidae",
     "genus": "Embiotoca",
     "max_length_cm": 38,
-    "frequency": 47,
-    "abundance": 6.7319,
+    "frequency": 48.0392,
+    "abundance": 7.4645,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -69200,8 +69276,8 @@
     "class": "Actinopteri",
     "family": "Cottidae",
     "genus": "Enophrys",
-    "frequency": 37.2093,
-    "abundance": 1.0435,
+    "frequency": 38.2979,
+    "abundance": 1.037,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -69365,8 +69441,8 @@
     "class": "Cephalopoda",
     "family": "Enteroctopodidae",
     "genus": "Enteroctopus",
-    "frequency": 23.2558,
-    "abundance": 1,
+    "frequency": 31.1111,
+    "abundance": 1.1111,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -72959,7 +73035,7 @@
     "class": "Mammalia",
     "family": "Otariidae",
     "genus": "Eumetopias",
-    "frequency": 21.0526,
+    "frequency": 20,
     "abundance": 1.6,
     "methods": [
       1
@@ -72974,7 +73050,7 @@
     "family": "Sclerodactylidae",
     "genus": "Eupentacta",
     "max_length_cm": 10,
-    "frequency": 38.7097,
+    "frequency": 37.5,
     "abundance": 3.9167,
     "photos": [
       {
@@ -73408,8 +73484,8 @@
     "class": "Asteroidea",
     "family": "Asteriidae",
     "genus": "Evasterias",
-    "frequency": 82.8947,
-    "abundance": 2.4392,
+    "frequency": 83.3333,
+    "abundance": 2.4135,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -78844,7 +78920,7 @@
     "family": "Ranellidae",
     "genus": "Fusitriton",
     "max_length_cm": 8,
-    "frequency": 13.2353,
+    "frequency": 12.8571,
     "abundance": 3.1905,
     "photos": [
       {
@@ -79286,8 +79362,8 @@
     "family": "Discodorididae",
     "genus": "Geitodoris",
     "description": "<p>Body is yellow to white with minute black or brown speckles and circular gills. Similar to&nbsp;<a href=\"https://reeflifesurvey.com/species/diaulula-sandiegensis/\"><em>Diaulula sandiegensis</em></a>, however spots are solid rather than rings. Spots do not extend onto tubercles, as seen in <em><a href=\"https://reeflifesurvey.com/species/doris-montereyensis/\">Doris montereyensis</a>.</em></p>",
-    "frequency": 21.4286,
-    "abundance": 1.1875,
+    "frequency": 20.6897,
+    "abundance": 1.1667,
     "confidence": "high confidence",
     "threat_status": "Critically Endangered",
     "photos": [
@@ -80581,8 +80657,8 @@
     "family": "Cancridae",
     "genus": "Glebocarcinus",
     "description": "<p>Distinguished by a nearly circular carapace, and legs coated in setae which appear hairy. Claws have dark tips, and carapace is typically dull red dorsally, and white ventrally.&nbsp;</p>",
-    "frequency": 51.4286,
-    "abundance": 4.8427,
+    "frequency": 55.5556,
+    "abundance": 5.5147,
     "confidence": "high confidence",
     "threat_status": "Critically Endangered",
     "editor_name": "Jo Schmid",
@@ -81335,7 +81411,7 @@
     "class": "Teleostei",
     "family": "Gobiesocidae",
     "genus": "Gobiesox",
-    "frequency": 15.3846,
+    "frequency": 17.0732,
     "abundance": 1,
     "methods": [
       1,
@@ -91742,8 +91818,8 @@
     "family": "Haliotidae",
     "genus": "Haliotis",
     "max_length_cm": 18,
-    "frequency": 80.9524,
-    "abundance": 17.4681,
+    "frequency": 83.0769,
+    "abundance": 18.2325,
     "photos": [
       {
         "location": "San Diego, CA",
@@ -92408,7 +92484,7 @@
     "genus": "Hapalogaster",
     "description": "<p>Carapace and legs are flatenned dorso-ventrally and covered in a thick mass of yellow-brown, bristle-like setae. Beneath the setae, the carapace is brown and red with some white spots. Anterior margins of legs 2-4 are lined with large spines, and the propodus of the walking legs have one dark red and two white bands. Tip of dactyl is black, and chelipeds have white teeth and orange tips.&nbsp;</p>",
     "frequency": 50,
-    "abundance": 1.2,
+    "abundance": 1.1667,
     "confidence": "high confidence",
     "threat_status": "Not Evaluated",
     "editor_name": "Jo Schmid",
@@ -93727,8 +93803,8 @@
     "family": "Cottidae",
     "genus": "Hemilepidotus",
     "description": "<p>Variable and often brilliant colouration to blend in with encrusting algae. Band of scales surrounding the dorsal fin is no more than 4-5 scales wide, and nostrils are without flaps. Similar species&nbsp;<em>Hemilepidotus spinosus&nbsp;</em>exhibits 6-8 scale-wide band, and nostrils with flaps.&nbsp;</p>",
-    "frequency": 48.9796,
-    "abundance": 1.3333,
+    "frequency": 52.9412,
+    "abundance": 1.2917,
     "confidence": "high confidence",
     "threat_status": "Critically Endangered",
     "editor_name": "Jo Schmid",
@@ -93784,7 +93860,7 @@
     "class": "Teleostei",
     "family": "Cottidae",
     "genus": "Hemilepidotus",
-    "frequency": 100,
+    "frequency": 16.6667,
     "abundance": 1,
     "methods": [
       1,
@@ -94844,8 +94920,8 @@
     "class": "Asteroidea",
     "family": "Echinasteridae",
     "genus": "Henricia",
-    "frequency": 21.5385,
-    "abundance": 3.8571,
+    "frequency": 25.3731,
+    "abundance": 3.44,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -94868,7 +94944,7 @@
     "family": "Echinasteridae",
     "genus": "Henricia",
     "max_length_cm": 15,
-    "frequency": 7.4689,
+    "frequency": 7.438,
     "abundance": 6.1509,
     "photos": [
       {
@@ -94993,8 +95069,8 @@
     "class": "Malacostraca",
     "family": "Thoridae",
     "genus": "Heptacarpus",
-    "frequency": 13.4328,
-    "abundance": 4.1,
+    "frequency": 13.0435,
+    "abundance": 3.9091,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -95094,8 +95170,8 @@
     "genus": "Hermissenda",
     "description": "<p>Once thought to occur across the entire North Pacific, however is now known to be a part of a species complex along with <em><a href=\"https://reeflifesurvey.com/species/hermissenda-emurai/\">H. emurai</a> </em>(Japan and Russian Far East) and <a href=\"https://reeflifesurvey.com/species/hermissenda-opalescens/\"><em>H. opalescens</em> </a>(Sea of Cortez to Northern California). Ranges from Alaska to Northern California, with some overlap in distribution with <a href=\"https://reeflifesurvey.com/species/hermissenda-opalescens/\"><em>H. opalescens</em></a> around the San Francisco Bay Area. Distinguished from&nbsp;<a href=\"https://reeflifesurvey.com/species/hermissenda-opalescens/\"><em>H. opalescens</em></a> by a longitudinal white band running anteriorly from the base to tip of each ceras. The body is translucent white in colour, with an orange longitudinal stripe between rhinophores.&nbsp;</p>",
     "max_length_cm": 8,
-    "frequency": 62.3188,
-    "abundance": 8.3591,
+    "frequency": 63.3803,
+    "abundance": 7.8318,
     "min_sea_temperature": 5.101,
     "max_sea_temperature": 26.6,
     "confidence": "incomplete data",
@@ -96738,8 +96814,8 @@
     "family": "Hexagrammidae",
     "genus": "Hexagrammos",
     "max_length_cm": 61,
-    "frequency": 75.6098,
-    "abundance": 5.4458,
+    "frequency": 76.1905,
+    "abundance": 5.137,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -96791,8 +96867,8 @@
     "family": "Hexagrammidae",
     "genus": "Hexagrammos",
     "max_length_cm": 48,
-    "frequency": 34.0426,
-    "abundance": 1.375,
+    "frequency": 34.6939,
+    "abundance": 1.3714,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -103288,8 +103364,8 @@
     "family": "Cottidae",
     "genus": "Jordania",
     "max_length_cm": 15,
-    "frequency": 72.1311,
-    "abundance": 3.3743,
+    "frequency": 74.6032,
+    "abundance": 3.4036,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -109146,8 +109222,8 @@
     "class": "Gastropoda",
     "family": "Polyceridae",
     "genus": "Limacia",
-    "frequency": 32.7273,
-    "abundance": 1.4063,
+    "frequency": 35.0877,
+    "abundance": 1.3784,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -110146,51 +110222,6 @@
     ]
   },
   {
-    "scientific_name": "Lopholithodes mandtii",
-    "slug": "lopholithodes-mandtii",
-    "main_common_name": "Puget sound king crab",
-    "phylum": "Arthropoda",
-    "class": "Malacostraca",
-    "family": "Lithodidae",
-    "genus": "Lopholithodes",
-    "max_length_cm": 23,
-    "frequency": 15.7895,
-    "abundance": 1.5,
-    "photos": [
-      {
-        "location": "British Columbia, Canada",
-        "photographer": "Em Lim",
-        "large_url": "https://images.reeflifesurvey.com/1/species_53_64ef083180874.w1000.h666.jpg",
-        "medium_url": "https://images.reeflifesurvey.com/1/species_53_64ef083180874.w400.h266.jpg",
-        "small_url": "https://images.reeflifesurvey.com/1/species_53_64ef083180874.w130.h87.jpg"
-      },
-      {
-        "location": "British Columbia, Canada",
-        "photographer": "Em Lim",
-        "large_url": "https://images.reeflifesurvey.com/1/species_0e_64ef082fd5c42.w1000.h666.jpg",
-        "medium_url": "https://images.reeflifesurvey.com/1/species_0e_64ef082fd5c42.w400.h266.jpg",
-        "small_url": "https://images.reeflifesurvey.com/1/species_0e_64ef082fd5c42.w130.h87.jpg"
-      },
-      {
-        "location": "British Columbia, Canada",
-        "photographer": "Jasmin Schuster",
-        "large_url": "https://images.reeflifesurvey.com/1/species_5d_64ef09a24bde5.w1000.h666.jpg",
-        "medium_url": "https://images.reeflifesurvey.com/1/species_5d_64ef09a24bde5.w400.h266.jpg",
-        "small_url": "https://images.reeflifesurvey.com/1/species_5d_64ef09a24bde5.w130.h87.jpg"
-      },
-      {
-        "location": "British Columbia, Canada",
-        "photographer": "Valesca de Groot",
-        "large_url": "https://images.reeflifesurvey.com/1/species_ad_64f43482e952d.w1000.h666.jpg",
-        "medium_url": "https://images.reeflifesurvey.com/1/species_ad_64f43482e952d.w400.h266.jpg",
-        "small_url": "https://images.reeflifesurvey.com/1/species_ad_64f43482e952d.w130.h87.jpg"
-      }
-    ],
-    "methods": [
-      2
-    ]
-  },
-  {
     "scientific_name": "Lophopanopeus bellus",
     "slug": "lophopanopeus-bellus",
     "main_common_name": "Black-clawed crab",
@@ -110198,8 +110229,8 @@
     "class": "Malacostraca",
     "family": "Panopeidae",
     "genus": "Lophopanopeus",
-    "frequency": 19.5652,
-    "abundance": 3.3,
+    "frequency": 25.4902,
+    "abundance": 2.6429,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -110333,7 +110364,7 @@
     "class": "Gastropoda",
     "family": "Lottiidae",
     "genus": "Lottia",
-    "frequency": 24,
+    "frequency": 23.0769,
     "abundance": 4.625,
     "photos": [
       {
@@ -115616,8 +115647,8 @@
     "family": "Goniasteridae",
     "genus": "Mediaster",
     "max_length_cm": 20,
-    "frequency": 25.7143,
-    "abundance": 2.9464,
+    "frequency": 29.1667,
+    "abundance": 2.6567,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -115780,8 +115811,8 @@
     "family": "Fissurellidae",
     "genus": "Megathura",
     "max_length_cm": 13,
-    "frequency": 33.8028,
-    "abundance": 7.9518,
+    "frequency": 73.913,
+    "abundance": 8.2703,
     "photos": [
       {
         "location": "Channel Islands, USA",
@@ -116485,7 +116516,7 @@
     "class": "Gastropoda",
     "family": "Tethydidae",
     "genus": "Melibe",
-    "frequency": 5.6604,
+    "frequency": 5.4545,
     "abundance": 5.5,
     "photos": [
       {
@@ -117114,8 +117145,8 @@
     "class": "Echinoidea",
     "family": "Strongylocentrotidae",
     "genus": "Mesocentrotus",
-    "frequency": 77,
-    "abundance": 167.482,
+    "frequency": 77.451,
+    "abundance": 168.8,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -118831,30 +118862,6 @@
     ],
     "methods": [
       1,
-      2
-    ]
-  },
-  {
-    "scientific_name": "Mimulus foliatus",
-    "slug": "mimulus-foliatus",
-    "main_common_name": "Foliate kelp crab",
-    "phylum": "Arthropoda",
-    "class": "Malacostraca",
-    "family": "Epialtidae",
-    "genus": "Mimulus",
-    "max_length_cm": 8,
-    "frequency": 8.3333,
-    "abundance": 3.125,
-    "photos": [
-      {
-        "location": "British Columbia, Canada",
-        "photographer": "Em Lim",
-        "large_url": "https://images.reeflifesurvey.com/1/species_df_6501369b6cbd6.w1000.h666.jpg",
-        "medium_url": "https://images.reeflifesurvey.com/1/species_df_6501369b6cbd6.w400.h266.jpg",
-        "small_url": "https://images.reeflifesurvey.com/1/species_df_6501369b6cbd6.w130.h87.jpg"
-      }
-    ],
-    "methods": [
       2
     ]
   },
@@ -121876,8 +121883,8 @@
     "class": "Actinopterygii",
     "family": "Cottidae",
     "genus": "Myoxocephalus",
-    "frequency": 13.1579,
-    "abundance": 1.3,
+    "frequency": 66.6667,
+    "abundance": 1.3333,
     "methods": [
       1,
       2
@@ -124208,7 +124215,7 @@
     "class": "Teleostei",
     "family": "Hemitripteridae",
     "genus": "Nautichthys",
-    "frequency": 21.0526,
+    "frequency": 16.2162,
     "abundance": 1,
     "photos": [
       {
@@ -127702,8 +127709,8 @@
     "class": "Gastropoda",
     "family": "Naticidae",
     "genus": "Neverita",
-    "frequency": 41.3793,
-    "abundance": 1.4118,
+    "frequency": 29.5455,
+    "abundance": 1.35,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -129292,8 +129299,8 @@
     "family": "Muricidae",
     "genus": "Nucella",
     "max_length_cm": 4,
-    "frequency": 39.2857,
-    "abundance": 7.5897,
+    "frequency": 44.8276,
+    "abundance": 6.3,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -129718,7 +129725,7 @@
     "family": "Octopodidae",
     "genus": "Octopus",
     "max_length_cm": 45,
-    "frequency": 10.3448,
+    "frequency": 10,
     "abundance": 1.25,
     "photos": [
       {
@@ -130509,7 +130516,7 @@
     "class": "Malacostraca",
     "family": "Lithodidae",
     "genus": "Oedignathus",
-    "frequency": 100,
+    "frequency": 22.2222,
     "abundance": 1,
     "methods": [
       2
@@ -131186,7 +131193,7 @@
     "family": "Onchidorididae",
     "genus": "Onchidoris",
     "max_length_cm": 4,
-    "frequency": 8.6957,
+    "frequency": 8.547,
     "abundance": 206.556,
     "photos": [
       {
@@ -131222,7 +131229,7 @@
     "class": "Gastropoda",
     "family": "Epitoniidae",
     "genus": "Opalia",
-    "frequency": 66.6667,
+    "frequency": 20,
     "abundance": 1,
     "photos": [
       {
@@ -131669,8 +131676,8 @@
     "family": "Hexagrammidae",
     "genus": "Ophiodon",
     "max_length_cm": 152,
-    "frequency": 47.1264,
-    "abundance": 1.5921,
+    "frequency": 50.5618,
+    "abundance": 1.6409,
     "photos": [
       {
         "location": "San Diego, USA",
@@ -132507,8 +132514,8 @@
     "class": "Malacostraca",
     "family": "Oregoniidae",
     "genus": "Oregonia",
-    "frequency": 40.3226,
-    "abundance": 1.7179,
+    "frequency": 40.625,
+    "abundance": 1.7561,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -132541,8 +132548,8 @@
     "family": "Asteriidae",
     "genus": "Orthasterias",
     "max_length_cm": 40,
-    "frequency": 72.7273,
-    "abundance": 6.8825,
+    "frequency": 73.4177,
+    "abundance": 7.005,
     "min_sea_temperature": 5.267,
     "max_sea_temperature": 17.49,
     "confidence": "high confidence",
@@ -132583,8 +132590,8 @@
     "family": "Cottidae",
     "genus": "Orthonopias",
     "max_length_cm": 10,
-    "frequency": 24.0506,
-    "abundance": 2.1429,
+    "frequency": 26.4368,
+    "abundance": 2,
     "photos": [
       {
         "location": "San Diego, CA",
@@ -135722,8 +135729,8 @@
     "family": "Hexagrammidae",
     "genus": "Oxylebius",
     "max_length_cm": 25,
-    "frequency": 70.7071,
-    "abundance": 4.1734,
+    "frequency": 70.297,
+    "abundance": 4.0225,
     "photos": [
       {
         "location": "San Diego, CA",
@@ -135982,8 +135989,8 @@
     "family": "Porcellanidae",
     "genus": "Pachycheles",
     "description": "<p>A dense covering of fine hairs on the claws and pointed rostrum distinguish this species from <em>Pachycheles rudis.</em></p>",
-    "frequency": 46.4286,
-    "abundance": 2.4167,
+    "frequency": 48.6486,
+    "abundance": 4.7143,
     "confidence": "high confidence",
     "threat_status": "Not Evaluated",
     "editor_name": "Jo Schmid",
@@ -136008,8 +136015,8 @@
     "class": "Malacostraca",
     "family": "Porcellanidae",
     "genus": "Pachycheles",
-    "frequency": 42.8571,
-    "abundance": 1.2,
+    "frequency": 29.4118,
+    "abundance": 3.3333,
     "methods": [
       2
     ]
@@ -136177,8 +136184,8 @@
     "family": "Sclerodactylidae",
     "genus": "Pachythyone",
     "max_length_cm": 8,
-    "frequency": 14.8148,
-    "abundance": 849.5,
+    "frequency": 100,
+    "abundance": 970.714,
     "photos": [
       {
         "location": "Channel Islands, USA",
@@ -136747,8 +136754,8 @@
     "family": "Diogenidae",
     "genus": "Paguristes",
     "max_length_cm": 3,
-    "frequency": 30.7692,
-    "abundance": 2.4167,
+    "frequency": 63.6364,
+    "abundance": 2.5455,
     "photos": [
       {
         "location": "Monterey, USA",
@@ -136974,7 +136981,7 @@
     "class": "Malacostraca",
     "family": "Paguridae",
     "genus": "Pagurus",
-    "frequency": 75,
+    "frequency": 9.7561,
     "abundance": 1,
     "methods": [
       2
@@ -136989,8 +136996,8 @@
     "family": "Paguridae",
     "genus": "Pagurus",
     "description": "<p>Prefers a large shell into which it can withdraw completely. Distinguished by pale blueish or grey walking legs with red-banded joints.&nbsp;</p>",
-    "frequency": 39.5833,
-    "abundance": 2.75,
+    "frequency": 42,
+    "abundance": 2.8769,
     "confidence": "high confidence",
     "threat_status": "Not Evaluated",
     "editor_name": "Jo Schmid",
@@ -137073,8 +137080,8 @@
     "class": "Malacostraca",
     "family": "Paguridae",
     "genus": "Pagurus",
-    "frequency": 28.9474,
-    "abundance": 4.2143,
+    "frequency": 32.5,
+    "abundance": 3.4737,
     "methods": [
       2
     ]
@@ -137182,8 +137189,8 @@
     "class": "Malacostraca",
     "family": "Paguridae",
     "genus": "Pagurus",
-    "frequency": 52.7273,
-    "abundance": 12.9122,
+    "frequency": 54.386,
+    "abundance": 14.6682,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -137659,8 +137666,8 @@
     "class": "Malacostraca",
     "family": "Pandalidae",
     "genus": "Pandalus",
-    "frequency": 47.1429,
-    "abundance": 5.8125,
+    "frequency": 50,
+    "abundance": 5.3871,
     "photos": [
       {
         "location": "Newfoundland, Canada",
@@ -144984,8 +144991,8 @@
     "family": "Asterinidae",
     "genus": "Patiria",
     "max_length_cm": 20,
-    "frequency": 74.3243,
-    "abundance": 37.4104,
+    "frequency": 75,
+    "abundance": 37.4268,
     "photos": [
       {
         "location": "Monterey, USA",
@@ -147999,7 +148006,7 @@
     "class": "Malacostraca",
     "family": "Porcellanidae",
     "genus": "Petrolisthes",
-    "frequency": 12.5,
+    "frequency": 15,
     "abundance": 1,
     "methods": [
       2
@@ -148881,7 +148888,7 @@
     "family": "Phocidae",
     "genus": "Phoca",
     "max_length_cm": 190,
-    "frequency": 14.0351,
+    "frequency": 13.5593,
     "abundance": 2.4167,
     "photos": [
       {
@@ -148963,8 +148970,8 @@
     "class": "Teleostei",
     "family": "Pholidae",
     "genus": "Pholis",
-    "frequency": 41.6667,
-    "abundance": 2,
+    "frequency": 46.1538,
+    "abundance": 2.1111,
     "photos": [
       {
         "photographer": "Em Lim",
@@ -149011,7 +149018,7 @@
     "genus": "Pholis",
     "description": "<p>Growing up to 25cm in length, the ribbon-like body exhibits 9-13 eyespots along the base of the dorsal fin. May be found out of water sheltering under rocks or seaweeds, although can be found at depths up to 100m. Spawning occurs from November - January, with eggs closely guarded and often laid inside an empty bivalve shell or under a stone.&nbsp;</p>",
     "max_length_cm": 25,
-    "frequency": 23.3083,
+    "frequency": 23.1343,
     "abundance": 1.6341,
     "min_sea_temperature": 0.5099,
     "max_sea_temperature": 19.94155,
@@ -149078,8 +149085,8 @@
     "genus": "Pholis",
     "description": "<p>Can be found intertidally down to 73m depths, and often entwined in seaweeds. Body up to 25cm in length, elongate and eel-like. Distinguished from other gunnel species by two dorsal rows of crescent-shaped markings beneath a low dorsal fin. Body colouration ranges from orange-brown to olive green, with colour phases varying to match surroundings. Males and females can be found coiled around the egg ball after spawning.&nbsp;</p>",
     "max_length_cm": 25,
-    "frequency": 37.5,
-    "abundance": 1.6047,
+    "frequency": 37.931,
+    "abundance": 1.6042,
     "min_sea_temperature": -1.0262,
     "max_sea_temperature": 16.7237,
     "confidence": "incomplete data",
@@ -150332,8 +150339,8 @@
     "family": "Lithodidae",
     "genus": "Phyllolithodes",
     "description": "<p>Named for the raised heart-shaped pattern on the carapace. Legs and pincers are covered in prominant, hard spines. Similar species <a href=\"https://reeflifesurvey.com/species/rhinolithodes-wosnessenskii/\"><em>Rhinolithodes wosnessenskii</em></a> instead exhibits an obvious deep, semicircular orange and white groove on the carapace.&nbsp;</p>",
-    "frequency": 25.641,
-    "abundance": 1.0909,
+    "frequency": 32,
+    "abundance": 1.1053,
     "confidence": "high confidence",
     "threat_status": "Not Evaluated",
     "editor_name": "Jo Schmid",
@@ -151316,8 +151323,8 @@
     "class": "Asteroidea",
     "family": "Asteriidae",
     "genus": "Pisaster",
-    "frequency": 37.5,
-    "abundance": 7,
+    "frequency": 40,
+    "abundance": 6.5909,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -151378,8 +151385,8 @@
     "family": "Asteriidae",
     "genus": "Pisaster",
     "max_length_cm": 25,
-    "frequency": 61.25,
-    "abundance": 7.6488,
+    "frequency": 63.4146,
+    "abundance": 8.9876,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -151414,8 +151421,8 @@
     "class": "Bivalvia",
     "family": "Pectinidae",
     "genus": "Placopecten",
-    "frequency": 28.5714,
-    "abundance": 2.25,
+    "frequency": 100,
+    "abundance": 1.5,
     "methods": [
       2
     ]
@@ -154597,8 +154604,8 @@
     "class": "Tentaculata",
     "family": "Pleurobrachiidae",
     "genus": "Pleurobrachia",
-    "frequency": 66.6667,
-    "abundance": 1.5,
+    "frequency": 33.3333,
+    "abundance": 1.3333,
     "methods": [
       1
     ]
@@ -154809,7 +154816,7 @@
     "family": "Pleuronectidae",
     "genus": "Pleuronichthys",
     "max_length_cm": 36,
-    "frequency": 14.8148,
+    "frequency": 14.5455,
     "abundance": 1.1,
     "photos": [
       {
@@ -155756,8 +155763,8 @@
     "class": "Gastropoda",
     "family": "Polyceridae",
     "genus": "Polycera",
-    "frequency": 30.4348,
-    "abundance": 4.3448,
+    "frequency": 29.1667,
+    "abundance": 4.1212,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -158926,8 +158933,8 @@
     "class": "Gastropoda",
     "family": "Turbinidae",
     "genus": "Pomaulax",
-    "frequency": 61.039,
-    "abundance": 57.8112,
+    "frequency": 63.2911,
+    "abundance": 60.3231,
     "photos": [
       {
         "location": "Monterey, USA",
@@ -159044,7 +159051,7 @@
     "family": "Batrachoididae",
     "genus": "Porichthys",
     "max_length_cm": 38,
-    "frequency": 19.0476,
+    "frequency": 18.1818,
     "abundance": 1.3333,
     "similar_species_slugs": [
       "batrachomoeus-dubius",
@@ -165699,7 +165706,7 @@
     "family": "Psolidae",
     "genus": "Psolus",
     "max_length_cm": 13,
-    "frequency": 5.7971,
+    "frequency": 5.6338,
     "abundance": 1.3333,
     "photos": [
       {
@@ -166063,8 +166070,8 @@
     "class": "Asteroidea",
     "family": "Pterasteridae",
     "genus": "Pteraster",
-    "frequency": 22.2222,
-    "abundance": 1.2,
+    "frequency": 23.4043,
+    "abundance": 1.2174,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -167449,13 +167456,23 @@
     "scientific_name": "Pugettia foliata",
     "slug": "pugettia-foliata",
     "main_common_name": "Foliate Kelp Crab",
+    "superseded_names": [
+      "Mimulus foliatus"
+    ],
     "phylum": "Arthropoda",
     "class": "Malacostraca",
     "family": "Epialtidae",
     "genus": "Pugettia",
-    "frequency": 100,
-    "abundance": 1,
+    "frequency": 9.4595,
+    "abundance": 2.7,
     "photos": [
+      {
+        "location": "British Columbia, Canada",
+        "photographer": "Em Lim",
+        "large_url": "https://images.reeflifesurvey.com/1/species_df_6501369b6cbd6.w1000.h666.jpg",
+        "medium_url": "https://images.reeflifesurvey.com/1/species_df_6501369b6cbd6.w400.h266.jpg",
+        "small_url": "https://images.reeflifesurvey.com/1/species_df_6501369b6cbd6.w130.h87.jpg"
+      },
       {
         "location": "Monterey, USA",
         "photographer": "Olivia Johnson",
@@ -167484,8 +167501,8 @@
     "family": "Epialtidae",
     "genus": "Pugettia",
     "description": "<p>Rostrum consists of two flattened processes which diverge from the base. Carapace is longer than wide, with prominant lateral tooth near middle of carapace. Chelae exhibit orange and blue tips, helping to distinguish this species from <a href=\"https://reeflifesurvey.com/species/pugettia-richii/\"><em>Pugettia richii</em></a>.&nbsp;</p>",
-    "frequency": 24.5902,
-    "abundance": 4.5714,
+    "frequency": 23.8095,
+    "abundance": 4.4483,
     "confidence": "high confidence",
     "threat_status": "Not Evaluated",
     "editor_name": "Jo Schmid",
@@ -167503,8 +167520,8 @@
     "genus": "Pugettia",
     "description": "<p>Rostrum consisting of two flattened processes, and carapace is smooth and longer than wide. Colour greenish brown to maroon dorsally, reddish or yellow ventrally. Does not decorate itself as extensively as other majid crabs, however may attach algae to rows of hooked setae just behind the rostrum.&nbsp;</p>",
     "max_length_cm": 9,
-    "frequency": 41.0256,
-    "abundance": 4.1047,
+    "frequency": 40,
+    "abundance": 3.83,
     "min_sea_temperature": 1.6157,
     "max_sea_temperature": 17.487,
     "confidence": "incomplete data",
@@ -167552,8 +167569,8 @@
     "family": "Epialtidae",
     "genus": "Pugettia",
     "description": "<p>Unlike similar species <a href=\"https://reeflifesurvey.com/species/pugettia-gracilis/\"><em>Pugettia gracilis</em></a>, carapace is covered in spines. Spines on edges of carapace are also more curved and project at sharper angles, and pincers are tipped in white rather than orange.&nbsp;&nbsp;</p>",
-    "frequency": 14.7059,
-    "abundance": 1.9,
+    "frequency": 16.6667,
+    "abundance": 1.8824,
     "confidence": "high confidence",
     "threat_status": "Not Evaluated",
     "editor_name": "Jo Schmid",
@@ -167591,8 +167608,8 @@
     "class": "Gastropoda",
     "family": "Fissurellidae",
     "genus": "Puncturella",
-    "frequency": 63.6364,
-    "abundance": 2.9286,
+    "frequency": 36.3636,
+    "abundance": 2.8,
     "methods": [
       2
     ]
@@ -168320,8 +168337,8 @@
     "family": "Pycnopodiidae",
     "genus": "Pycnopodia",
     "max_length_cm": 90,
-    "frequency": 71.5909,
-    "abundance": 4.8774,
+    "frequency": 71.1111,
+    "abundance": 4.7626,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -169151,8 +169168,8 @@
     "family": "Embiotocidae",
     "genus": "Rhacochilus",
     "max_length_cm": 45,
-    "frequency": 50.5376,
-    "abundance": 11.035,
+    "frequency": 50.5263,
+    "abundance": 12.3247,
     "methods": [
       1
     ]
@@ -169165,8 +169182,8 @@
     "class": "Actinopteri",
     "family": "Rhamphocottidae",
     "genus": "Rhamphocottus",
-    "frequency": 20.5128,
-    "abundance": 1.0769,
+    "frequency": 29.2683,
+    "abundance": 1.0556,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -169779,8 +169796,8 @@
     "family": "Gobiidae",
     "genus": "Rhinogobiops",
     "max_length_cm": 15,
-    "frequency": 83,
-    "abundance": 50.1949,
+    "frequency": 83.3333,
+    "abundance": 55.5361,
     "photos": [
       {
         "location": "San Diego, USA",
@@ -169825,7 +169842,7 @@
     "family": "Lithodidae",
     "genus": "Rhinolithodes",
     "description": "<p>Triangular carapace features a deep semicircular orange and white groove. Appendages are densely coated in hairs.&nbsp;</p>",
-    "frequency": 13.6364,
+    "frequency": 13.0435,
     "abundance": 1,
     "min_sea_temperature": 6.804,
     "max_sea_temperature": 17.487,
@@ -170621,7 +170638,7 @@
     "family": "Cancridae",
     "genus": "Romaleon",
     "description": "<p>Characteristic reddish spotting on the underside of pale yellow or cream carapace. Carapace is purplish-red and exhibits 11 anterolateral teeth, with its widest point at the 8th tooth. Claw tips are dark brown to black.&nbsp;</p>",
-    "frequency": 25,
+    "frequency": 23.8095,
     "abundance": 1,
     "confidence": "high confidence",
     "threat_status": "Not Evaluated",
@@ -170772,7 +170789,7 @@
     "class": "Gastropoda",
     "family": "Discodorididae",
     "genus": "Rostanga",
-    "frequency": 12,
+    "frequency": 14.2857,
     "abundance": 1,
     "methods": [
       2
@@ -170856,6 +170873,21 @@
     "abundance": 2,
     "methods": [
       1
+    ]
+  },
+  {
+    "scientific_name": "Ruscarius meanyi",
+    "slug": "ruscarius-meanyi",
+    "main_common_name": "Puget Sound Sculpin",
+    "phylum": "Chordata",
+    "class": "Teleostei",
+    "family": "Cottidae",
+    "genus": "Ruscarius",
+    "frequency": 10,
+    "abundance": 1,
+    "methods": [
+      1,
+      2
     ]
   },
   {
@@ -177571,8 +177603,8 @@
     "family": "Cottidae",
     "genus": "Scorpaenichthys",
     "max_length_cm": 99,
-    "frequency": 18.2927,
-    "abundance": 1.1852,
+    "frequency": 20.2381,
+    "abundance": 1.2333,
     "photos": [
       {
         "location": "Channel Islands, USA",
@@ -178892,8 +178924,8 @@
     "genus": "Scyra",
     "description": "<p>Uses sponge and tunicates as decoration as a form of predator evasion. Rostrum is longer than it is wide, and is widest at the middle. Chelipeds/ claws in males are usually longer than the walking legs, and are orange-tipped.&nbsp;</p>",
     "max_length_cm": 4,
-    "frequency": 60,
-    "abundance": 4.1081,
+    "frequency": 61.1111,
+    "abundance": 4.7082,
     "min_sea_temperature": 5.5744,
     "max_sea_temperature": 17.4708,
     "confidence": "incomplete data",
@@ -179210,8 +179242,8 @@
     "family": "Sebastidae",
     "genus": "Sebastes",
     "max_length_cm": 56,
-    "frequency": 33.3333,
-    "abundance": 4.6552,
+    "frequency": 35.1852,
+    "abundance": 4.4848,
     "photos": [
       {
         "location": "Channel Islands, USA",
@@ -179249,8 +179281,8 @@
     "family": "Sebastidae",
     "genus": "Sebastes",
     "max_length_cm": 58,
-    "frequency": 71.7647,
-    "abundance": 8.8583,
+    "frequency": 71.2644,
+    "abundance": 8.6848,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -179333,7 +179365,7 @@
     "class": "Actinopteri",
     "family": "Sebastidae",
     "genus": "Sebastes",
-    "frequency": 8,
+    "frequency": 7.6923,
     "abundance": 88.3333,
     "photos": [
       {
@@ -179371,8 +179403,8 @@
     "family": "Sebastidae",
     "genus": "Sebastes",
     "max_length_cm": 66,
-    "frequency": 28.3951,
-    "abundance": 16.5098,
+    "frequency": 31.3253,
+    "abundance": 13.9677,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -179417,8 +179449,8 @@
     "family": "Sebastidae",
     "genus": "Sebastes",
     "max_length_cm": 61,
-    "frequency": 41.9753,
-    "abundance": 3.7822,
+    "frequency": 42.1687,
+    "abundance": 3.7522,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -179454,8 +179486,8 @@
     "class": "Actinopterygii",
     "family": "Sebastidae",
     "genus": "Sebastes",
-    "frequency": 63.4921,
-    "abundance": 14.014,
+    "frequency": 64.6154,
+    "abundance": 13.0915,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -179478,8 +179510,8 @@
     "family": "Sebastidae",
     "genus": "Sebastes",
     "max_length_cm": 91,
-    "frequency": 12.5,
-    "abundance": 1.3333,
+    "frequency": 15.1515,
+    "abundance": 1.2857,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -179534,8 +179566,8 @@
     "class": "Actinopterygii",
     "family": "Sebastidae",
     "genus": "Sebastes",
-    "frequency": 24,
-    "abundance": 1.9375,
+    "frequency": 25.974,
+    "abundance": 2.1404,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -179571,7 +179603,7 @@
     "class": "Teleostei",
     "family": "Sebastidae",
     "genus": "Sebastes",
-    "frequency": 14.2857,
+    "frequency": 13.3333,
     "abundance": 1,
     "photos": [
       {
@@ -179664,8 +179696,8 @@
     "class": "Actinopterygii",
     "family": "Sebastidae",
     "genus": "Sebastes",
-    "frequency": 7.5472,
-    "abundance": 28,
+    "frequency": 10.9091,
+    "abundance": 16.25,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -183190,7 +183222,7 @@
     "family": "Solasteridae",
     "genus": "Solaster",
     "max_length_cm": 51,
-    "frequency": 12.1951,
+    "frequency": 11.6279,
     "abundance": 2.375,
     "photos": [
       {
@@ -183244,8 +183276,8 @@
     "family": "Solasteridae",
     "genus": "Solaster",
     "max_length_cm": 51,
-    "frequency": 25,
-    "abundance": 1.0833,
+    "frequency": 27.2727,
+    "abundance": 1.0769,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -188891,8 +188923,8 @@
     "family": "Strongylocentrotidae",
     "genus": "Strongylocentrotus",
     "max_length_cm": 10,
-    "frequency": 42.4581,
-    "abundance": 375.404,
+    "frequency": 42.5414,
+    "abundance": 350.879,
     "photos": [
       {
         "location": "British Columbia",
@@ -188957,8 +188989,8 @@
     "family": "Strongylocentrotidae",
     "genus": "Strongylocentrotus",
     "max_length_cm": 9,
-    "frequency": 57.8947,
-    "abundance": 324.116,
+    "frequency": 57.732,
+    "abundance": 289.773,
     "photos": [
       {
         "location": "British Clumbia, Canada",
@@ -189086,8 +189118,8 @@
     "class": "Asteroidea",
     "family": "Asteriidae",
     "genus": "Stylasterias",
-    "frequency": 41.0714,
-    "abundance": 2.4638,
+    "frequency": 44.8276,
+    "abundance": 2.4348,
     "photos": [
       {
         "location": "British Columbia, Canada",
@@ -190887,7 +190919,7 @@
     "family": "Cottidae",
     "genus": "Synchirus",
     "max_length_cm": 7,
-    "frequency": 10.5263,
+    "frequency": 10.1695,
     "abundance": 1.3333,
     "photos": [
       {
@@ -190949,7 +190981,7 @@
     "class": "Teleostei",
     "family": "Syngnathidae",
     "genus": "Syngnathus",
-    "frequency": 50,
+    "frequency": 75,
     "abundance": 1,
     "methods": [
       1,
@@ -193285,7 +193317,7 @@
     "class": "Gastropoda",
     "family": "Tegulidae",
     "genus": "Tegula",
-    "frequency": 20.4545,
+    "frequency": 20,
     "abundance": 147.667,
     "photos": [
       {
@@ -193423,8 +193455,8 @@
     "class": "Malacostraca",
     "family": "Cheiragonidae",
     "genus": "Telmessus",
-    "frequency": 33.3333,
-    "abundance": 1.6,
+    "frequency": 11.7647,
+    "abundance": 1.5,
     "methods": [
       2
     ]
@@ -200062,8 +200094,8 @@
     "genus": "Triopha",
     "description": "<p>Eastern Pacific species ranging from southeast Alaska to norther Gulf of California. Very similar to <a href=\"https://reeflifesurvey.com/species/triopha-modesta/\"><em>T. modesta</em></a>, but distinguishable by having large unbranched conical or rounded tubercles on dorsum, small nodules on the dorso-lateral appendages even in larger individuals, and the color of the rhinophore and gill tip is darker than dorsal tubercles.&nbsp;<a href=\"https://reeflifesurvey.com/species/triopha-modesta/\"><em>T. modesta</em></a> exhibits small and branching dorsal tubercles and arborescent dorso-lateral appendages in larger individuals, and has a trans-Pacific distribution. Both species have white-translucent bodies with orange appendages, rhinophores, and tubercles. Orange or grey-bodied colour morphs can occur.&nbsp;</p>",
     "max_length_cm": 12,
-    "frequency": 3.4121,
-    "abundance": 2.25,
+    "frequency": 3.6554,
+    "abundance": 2.2,
     "min_sea_temperature": 13.08875,
     "max_sea_temperature": 19.586,
     "confidence": "incomplete data",
@@ -200105,8 +200137,8 @@
     "family": "Polyceridae",
     "genus": "Triopha",
     "description": "<p>Trans-Pacific species found along the coast of British Columbia and south to California, as well as in Japan and Korea. Recently distinguished from <a href=\"https://reeflifesurvey.com/species/triopha-catalinae/\"><em>T. catalinae</em></a> which is strictly eastern Pacific in range. <em>T. modesta&nbsp;</em>exhibits characteristic small branching dorsal tubercles, and two rows of arborescent tubercles on the dorso-lateral appendages in larger individuals. Rhinophores and gill tips are lighter in colour than the dorsal tubercles, unlike <em>T. catalinae</em> which exhibits darker rhinophores and gill tips, as well as unbranched tubercles and appendages.&nbsp;Both species have orange appendages, tubercles, and rhinophores, with body colour ranging from translucent to yellowish white in&nbsp;<em>T. modesta</em>.&nbsp;</p>",
-    "frequency": 40.625,
-    "abundance": 1.1071,
+    "frequency": 38.2353,
+    "abundance": 1.1,
     "confidence": "high confidence",
     "threat_status": "Critically Endangered",
     "editor_name": "Jo Schmid",
@@ -200678,8 +200710,8 @@
     "genus": "Tritonia",
     "description": "<p>Feeding on soft corals, the body is translucent white, but may take on a pink or orange hue indicating the colour of its last meal. Reticulating diamond-like pattern may or may not be present on the dorsal surface.&nbsp;</p>",
     "max_length_cm": 4,
-    "frequency": 20,
-    "abundance": 1.4211,
+    "frequency": 22.807,
+    "abundance": 1.3636,
     "min_sea_temperature": 12.856,
     "max_sea_temperature": 18.611,
     "confidence": "incomplete data",
@@ -205958,7 +205990,7 @@
     "class": "Mammalia",
     "family": "Otariidae",
     "genus": "Zalophus",
-    "frequency": 19.403,
+    "frequency": 19.1176,
     "abundance": 2.2,
     "methods": [
       1

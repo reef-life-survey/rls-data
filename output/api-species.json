@@ -2193,8 +2193,8 @@
     [
       "https://images.reeflifesurvey.com/1/species_32_619b07ff7f793.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_8c_5847bf5483d08.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_a4_5847bf5024c16.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_77_619b081504438.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_a4_5847bf5024c16.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_0b_5847bf59ddf87.w1000.h666.jpg"
     ]
   ],
@@ -5990,6 +5990,13 @@
       "https://images.reeflifesurvey.com/0/species_79_589281f24935e.w1000.h666.JPG"
     ]
   ],
+  "Bothragonus swanii": [
+    "Bothragonus swanii",
+    "Rockhead",
+    "https://reeflifesurvey.com/species/bothragonus-swanii/",
+    2,
+    []
+  ],
   "Bothus leopardinus": [
     "Bothus leopardinus",
     "Pacific leopard flounder",
@@ -6504,6 +6511,13 @@
       "https://images.reeflifesurvey.com/1/species_34_6256b44985891.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_8d_6256b451bdfd8.w1000.h666.jpg"
     ]
+  ],
+  "Cadlina jannanicholsae": [
+    "Cadlina jannanicholsae",
+    "Yellow-edged Cadlina",
+    "https://reeflifesurvey.com/species/cadlina-jannanicholsae/",
+    1,
+    []
   ],
   "Cadlina luteomarginata": [
     "Cadlina luteomarginata",
@@ -14285,6 +14299,13 @@
     0,
     []
   ],
+  "Coryphella longicaudata": [
+    "Coryphella longicaudata",
+    "Red-fingered Coryphella",
+    "https://reeflifesurvey.com/species/coryphella-longicaudata/",
+    1,
+    []
+  ],
   "Coryphella trilineata": [
     "Coryphella trilineata",
     "Three-lined aeolid",
@@ -17524,7 +17545,12 @@
     "Puget sound king crab",
     "https://reeflifesurvey.com/species/echidnocerus-cibarius/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_53_64ef083180874.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_0e_64ef082fd5c42.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_5d_64ef09a24bde5.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_ad_64f43482e952d.w1000.h666.jpg"
+    ]
   ],
   "Echinarachnius parma": [
     "Echinarachnius parma",
@@ -29822,18 +29848,6 @@
     0,
     []
   ],
-  "Lopholithodes mandtii": [
-    "Lopholithodes mandtii",
-    "Puget sound king crab",
-    "https://reeflifesurvey.com/species/lopholithodes-mandtii/",
-    1,
-    [
-      "https://images.reeflifesurvey.com/1/species_53_64ef083180874.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_0e_64ef082fd5c42.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_5d_64ef09a24bde5.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_ad_64f43482e952d.w1000.h666.jpg"
-    ]
-  ],
   "Lophopanopeus bellus": [
     "Lophopanopeus bellus",
     "Black-clawed crab",
@@ -32083,15 +32097,6 @@
     2,
     [
       "https://images.reeflifesurvey.com/0/species_15_5763368492f7c.w1000.h666.JPG"
-    ]
-  ],
-  "Mimulus foliatus": [
-    "Mimulus foliatus",
-    "Foliate kelp crab",
-    "https://reeflifesurvey.com/species/mimulus-foliatus/",
-    1,
-    [
-      "https://images.reeflifesurvey.com/1/species_df_6501369b6cbd6.w1000.h666.jpg"
     ]
   ],
   "Mithraculus cinctimanus": [
@@ -45267,6 +45272,7 @@
     "https://reeflifesurvey.com/species/pugettia-foliata/",
     1,
     [
+      "https://images.reeflifesurvey.com/1/species_df_6501369b6cbd6.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_b0_636ae35e981dc.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_73_636ae35bd974f.w1000.h666.jpg"
     ]
@@ -46199,6 +46205,13 @@
     "Minute leatherjacket",
     "https://reeflifesurvey.com/species/rudarius-minutus/",
     0,
+    []
+  ],
+  "Ruscarius meanyi": [
+    "Ruscarius meanyi",
+    "Puget Sound Sculpin",
+    "https://reeflifesurvey.com/species/ruscarius-meanyi/",
+    2,
     []
   ],
   "Rypticus bicolor": [

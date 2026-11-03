@@ -3078,7 +3078,7 @@
       "Dodger Channel",
       -125.2,
       48.83,
-      10
+      12
     ],
     [
       "BMSC10",
@@ -3089,7 +3089,7 @@
       "Ross Islets Slug Island",
       -125.16,
       48.87,
-      6
+      7
     ],
     [
       "BMSC11",
@@ -3100,7 +3100,7 @@
       "Wizard Island South",
       -125.16,
       48.86,
-      9
+      11
     ],
     [
       "BMSC12",
@@ -3111,7 +3111,7 @@
       "Wizard Island North",
       -125.16,
       48.86,
-      9
+      11
     ],
     [
       "BMSC13",
@@ -3133,7 +3133,7 @@
       "Effingham Archipelago",
       -125.3,
       48.88,
-      4
+      5
     ],
     [
       "BMSC15",
@@ -3144,7 +3144,7 @@
       "Raymond Kelp Rock",
       -125.31,
       48.88,
-      4
+      5
     ],
     [
       "BMSC16",
@@ -3155,7 +3155,7 @@
       "Faber Islets",
       -125.3,
       48.89,
-      4
+      5
     ],
     [
       "BMSC17",
@@ -3166,7 +3166,7 @@
       "Wouwer Channel",
       -125.36,
       48.87,
-      4
+      6
     ],
     [
       "BMSC18",
@@ -3177,7 +3177,7 @@
       "Eussen Rock",
       -125.27,
       48.91,
-      4
+      5
     ],
     [
       "BMSC19",
@@ -3188,7 +3188,7 @@
       "Ed King SW Pyramid",
       -125.22,
       48.83,
-      5
+      6
     ],
     [
       "BMSC2",
@@ -3199,7 +3199,7 @@
       "Kirby",
       -125.2,
       48.85,
-      4
+      5
     ],
     [
       "BMSC20",
@@ -3210,7 +3210,7 @@
       "Ed King East",
       -125.21,
       48.84,
-      5
+      6
     ],
     [
       "BMSC21",
@@ -3221,7 +3221,7 @@
       "Dixon SW",
       -125.12,
       48.85,
-      5
+      6
     ],
     [
       "BMSC22",
@@ -3232,7 +3232,7 @@
       "Dixon Inside",
       -125.12,
       48.85,
-      5
+      6
     ],
     [
       "BMSC23",
@@ -3243,7 +3243,7 @@
       "Aguilar Point",
       -125.14,
       48.84,
-      4
+      5
     ],
     [
       "BMSC24",
@@ -3254,7 +3254,7 @@
       "Swiss Boy",
       -125.13,
       48.92,
-      6
+      8
     ],
     [
       "BMSC25",
@@ -3265,7 +3265,7 @@
       "Goby Town",
       -125.14,
       48.84,
-      6
+      8
     ],
     [
       "BMSC26",
@@ -3276,7 +3276,7 @@
       "Hosie South",
       -125.04,
       48.91,
-      6
+      8
     ],
     [
       "BMSC27",
@@ -3287,7 +3287,7 @@
       "San Jose North Island",
       -125.06,
       48.9,
-      5
+      7
     ],
     [
       "BMSC3",
@@ -3298,7 +3298,7 @@
       "Ohiat",
       -125.18,
       48.86,
-      5
+      6
     ],
     [
       "BMSC31",
@@ -3334,6 +3334,28 @@
       1
     ],
     [
+      "BMSC34",
+      "Canada",
+      "Temperate Northern Pacific",
+      "Vancouver Island",
+      "Oregon, Washington, Vancouver Coast and Shelf",
+      "Ellis Islet",
+      -125.11,
+      48.86,
+      1
+    ],
+    [
+      "BMSC35",
+      "Canada",
+      "Temperate Northern Pacific",
+      "Vancouver Island",
+      "Oregon, Washington, Vancouver Coast and Shelf",
+      "Black Fish Rock",
+      -125.17,
+      48.85,
+      1
+    ],
+    [
       "BMSC4",
       "Canada",
       "Temperate Northern Pacific",
@@ -3342,7 +3364,7 @@
       "Kii xin",
       -125.18,
       48.82,
-      4
+      5
     ],
     [
       "BMSC5",
@@ -3353,7 +3375,7 @@
       "Taylor Rock",
       -125.2,
       48.83,
-      9
+      11
     ],
     [
       "BMSC6",
@@ -3364,7 +3386,7 @@
       "Baeria Rocks South Island",
       -125.16,
       48.95,
-      9
+      11
     ],
     [
       "BMSC7",
@@ -3386,7 +3408,7 @@
       "Baeria Rocks North Island Northside",
       -125.15,
       48.96,
-      8
+      10
     ],
     [
       "BMSC9",
@@ -3397,7 +3419,7 @@
       "Eagle Bay",
       -125.15,
       48.83,
-      5
+      6
     ],
     [
       "BO1",
@@ -49465,7 +49487,7 @@
       "Cottam Point  Nanaimo BC",
       -124.22,
       49.32,
-      8
+      10
     ],
     [
       "USWC18",
@@ -49476,7 +49498,7 @@
       "Madrona Point SW  Nainaimo BC",
       -124.24,
       49.31,
-      4
+      6
     ],
     [
       "USWC19",
@@ -49487,7 +49509,7 @@
       "Madrona Point NW  Nainaimo BC",
       -124.24,
       49.31,
-      8
+      10
     ],
     [
       "USWC2",
@@ -49520,7 +49542,7 @@
       "Dolphin Beach East BC",
       -124.14,
       49.29,
-      8
+      10
     ],
     [
       "USWC22",
