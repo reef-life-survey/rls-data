@@ -89175,8 +89175,8 @@
     "class": "Teleostei",
     "family": "Labridae",
     "genus": "Halichoeres",
-    "frequency": 11.1264,
-    "abundance": 15.2055,
+    "frequency": 8.2489,
+    "abundance": 13.4138,
     "methods": [
       1
     ]
@@ -90197,8 +90197,8 @@
     "genus": "Halichoeres",
     "description": "Males green with numerous stripes along the body, broken by a series of short bars on the back, and with yellow and black pectoral fin base. Females and juveniles with fine pinstripes, two ocelli on dorsal fin (which disappear with age), and one on upper tail base. Very common. Indian Ocean populations from western Indonesia to the Maldives considered a separate species (<em>H. chrysotaenia</em>), with spots on the tail of males, but this is not yet reflected in global databases.",
     "max_length_cm": 12,
-    "frequency": 24.7863,
-    "abundance": 13.3519,
+    "frequency": 24.9573,
+    "abundance": 13.4803,
     "depth_range": "1-25m",
     "min_sea_temperature": 20.294,
     "max_sea_temperature": 31.284,
@@ -90663,20 +90663,6 @@
     ]
   },
   {
-    "scientific_name": "Halichoeres orientalis",
-    "slug": "halichoeres-orientalis",
-    "phylum": "Chordata",
-    "class": "Actinopterygii",
-    "family": "Labridae",
-    "genus": "Halichoeres",
-    "max_length_cm": 8,
-    "frequency": 25,
-    "abundance": 1,
-    "methods": [
-      1
-    ]
-  },
-  {
     "scientific_name": "Halichoeres ornatissimus",
     "slug": "halichoeres-ornatissimus",
     "main_common_name": "Ornate wrasse",
@@ -90691,7 +90677,7 @@
     "description": "Green body with broken, irregular red stripes, pale belly, black spot in centre of dorsal fin. Females with green scale centres surrounded by red edges on upper body, green stripe from above eye along back to tail base, pale belly and two ocelli on dorsal fin. Juveniles black with yellow stripes along body and two large blue centred ocelli on dorsal fin.",
     "max_length_cm": 18,
     "frequency": 8.5464,
-    "abundance": 4.8808,
+    "abundance": 4.8996,
     "depth_range": "1-15m",
     "min_sea_temperature": 24.027,
     "max_sea_temperature": 29.9541,
