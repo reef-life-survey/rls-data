@@ -14496,6 +14496,13 @@
     2,
     []
   ],
+  "Corythoichthys benedetto": [
+    "Corythoichthys benedetto",
+    "Benedettos pipefish",
+    "https://reeflifesurvey.com/species/corythoichthys-benedetto/",
+    2,
+    []
+  ],
   "Corythoichthys conspicillatus": [
     "Corythoichthys conspicillatus",
     "Reticulate Pipefish",
@@ -26856,6 +26863,13 @@
     "Holothuria portovallartensis",
     "",
     "https://reeflifesurvey.com/species/holothuria-portovallartensis/",
+    1,
+    []
+  ],
+  "Holothuria rigida": [
+    "Holothuria rigida",
+    "",
+    "https://reeflifesurvey.com/species/holothuria-rigida/",
     1,
     []
   ],
@@ -45462,6 +45476,13 @@
       "https://images.reeflifesurvey.com/0/species_c2_56e7723b0ca73.w1000.h666.jpg"
     ]
   ],
+  "Pycnochromis pacifica": [
+    "Pycnochromis pacifica",
+    "Pacific bronze chromis",
+    "https://reeflifesurvey.com/species/pycnochromis-pacifica/",
+    0,
+    []
+  ],
   "Pycnochromis retrofasciatus": [
     "Pycnochromis retrofasciatus",
     "Blackbar Puller",
@@ -49840,6 +49861,13 @@
   ],
   "Spondylus limbatus": [
     "Spondylus limbatus",
+    "",
+    null,
+    1,
+    []
+  ],
+  "Spondylus ocellatus": [
+    "Spondylus ocellatus",
     "",
     null,
     1,
