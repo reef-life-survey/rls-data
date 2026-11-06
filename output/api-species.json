@@ -1953,6 +1953,13 @@
       "https://images.reeflifesurvey.com/0/species_4f_5787126ab198e.w1000.h666.JPG"
     ]
   ],
+  "Amblyrhynchus cristatus": [
+    "Amblyrhynchus cristatus",
+    "Marine Iguana",
+    "https://reeflifesurvey.com/species/amblyrhynchus-cristatus/",
+    0,
+    []
+  ],
   "Ammodytes tobianus": [
     "Ammodytes tobianus",
     "Small sandeel",
@@ -2646,6 +2653,13 @@
     "Anisotremus davidsonii",
     "Grunt",
     "https://reeflifesurvey.com/species/anisotremus-davidsonii/",
+    0,
+    []
+  ],
+  "Anisotremus espinozai": [
+    "Anisotremus espinozai",
+    "Santa Cruz Grunt",
+    "https://reeflifesurvey.com/species/anisotremus-espinozai/",
     0,
     []
   ],
@@ -3702,6 +3716,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_ac_59c856496db43.w1000.h666.jpg"
     ]
+  ],
+  "Archosargus pourtalesii": [
+    "Archosargus pourtalesii",
+    "Blackspot porgy",
+    "https://reeflifesurvey.com/species/archosargus-pourtalesii/",
+    0,
+    []
   ],
   "Archosargus probatocephalus": [
     "Archosargus probatocephalus",
@@ -5121,6 +5142,13 @@
     1,
     []
   ],
+  "Auxis brachydorax": [
+    "Auxis brachydorax",
+    "Frigate mackerel",
+    "https://reeflifesurvey.com/species/auxis-brachydorax/",
+    0,
+    []
+  ],
   "Auxis rochei": [
     "Auxis rochei",
     "",
@@ -5659,6 +5687,13 @@
       "https://images.reeflifesurvey.com/0/species_86_57452e8015b3e.w1000.h666.jpg"
     ]
   ],
+  "Bodianus darwini": [
+    "Bodianus darwini",
+    "Gal\u00e1pagos sheephead wrasse",
+    "https://reeflifesurvey.com/species/bodianus-darwini/",
+    0,
+    []
+  ],
   "Bodianus diana": [
     "Bodianus diana",
     "Dianas pigfish",
@@ -6154,6 +6189,13 @@
     "Brachygenys chrysargyreum",
     "Smallmouth grunt",
     "https://reeflifesurvey.com/species/brachygenys-chrysargyreum/",
+    0,
+    []
+  ],
+  "Brachygenys jessiae": [
+    "Brachygenys jessiae",
+    "",
+    "https://reeflifesurvey.com/species/brachygenys-jessiae/",
     0,
     []
   ],
@@ -8660,6 +8702,13 @@
       "https://images.reeflifesurvey.com/1/species_32_6863682c9bbf8.w1000.h666.JPG"
     ]
   ],
+  "Cephalopholis colonus": [
+    "Cephalopholis colonus",
+    "Pacific Creole-fish",
+    "https://reeflifesurvey.com/species/cephalopholis-colonus/",
+    0,
+    []
+  ],
   "Cephalopholis cruentata": [
     "Cephalopholis cruentata",
     "Graysby",
@@ -9016,6 +9065,13 @@
     "Cerithium torresi",
     "",
     "https://reeflifesurvey.com/species/cerithium-torresi/",
+    1,
+    []
+  ],
+  "Cerithium uncinatum": [
+    "Cerithium uncinatum",
+    "",
+    "https://reeflifesurvey.com/species/cerithium-uncinatum/",
     1,
     []
   ],
@@ -13444,6 +13500,13 @@
     1,
     []
   ],
+  "Conus brunneus": [
+    "Conus brunneus",
+    "",
+    "https://reeflifesurvey.com/species/conus-brunneus/",
+    1,
+    []
+  ],
   "Conus capitaneus": [
     "Conus capitaneus",
     "Captain cone",
@@ -14296,6 +14359,13 @@
     "Corvula batabana",
     "Blue croaker",
     "https://reeflifesurvey.com/species/corvula-batabana/",
+    0,
+    []
+  ],
+  "Corvula macrops": [
+    "Corvula macrops",
+    "Big-Eye Croaker",
+    "https://reeflifesurvey.com/species/corvula-macrops/",
     0,
     []
   ],
@@ -21820,6 +21890,13 @@
     0,
     []
   ],
+  "Gerres simillimus": [
+    "Gerres simillimus",
+    "Pacific Yellowfin Mojarra",
+    "https://reeflifesurvey.com/species/gerres-simillimus/",
+    0,
+    []
+  ],
   "Gerres subfasciatus": [
     "Gerres subfasciatus",
     "Common silver belly",
@@ -22268,6 +22345,13 @@
     "Gobioclinus bucciferus",
     "Puffcheek blenny",
     "https://reeflifesurvey.com/species/gobioclinus-bucciferus/",
+    2,
+    []
+  ],
+  "Gobioclinus dendriticus": [
+    "Gobioclinus dendriticus",
+    "Bravo Clinid",
+    "https://reeflifesurvey.com/species/gobioclinus-dendriticus/",
     2,
     []
   ],
@@ -25388,6 +25472,13 @@
     2,
     []
   ],
+  "Hemilutjanus macrophthalmos": [
+    "Hemilutjanus macrophthalmos",
+    "Grape-eye seabass",
+    "https://reeflifesurvey.com/species/hemilutjanus-macrophthalmos/",
+    0,
+    []
+  ],
   "Hemiocnus insolens": [
     "Hemiocnus insolens",
     "Red-chested sea cucumber",
@@ -27130,6 +27221,13 @@
     2,
     []
   ],
+  "Hypanus dipterurus": [
+    "Hypanus dipterurus",
+    "Diamond Stingray",
+    "https://reeflifesurvey.com/species/hypanus-dipterurus/",
+    2,
+    []
+  ],
   "Hypanus guttatus": [
     "Hypanus guttatus",
     "Longnose stingray",
@@ -27419,6 +27517,13 @@
     "Hyporhamphus melanochir",
     "Southern sea garfish",
     "https://reeflifesurvey.com/species/hyporhamphus-melanochir/",
+    0,
+    []
+  ],
+  "Hyporthodus mystacinus": [
+    "Hyporthodus mystacinus",
+    "Misty Grouper",
+    "https://reeflifesurvey.com/species/hyporthodus-mystacinus/",
     0,
     []
   ],
@@ -29638,6 +29743,13 @@
     "Black waspfish",
     "https://reeflifesurvey.com/species/liocranium-praepositum/",
     2,
+    []
+  ],
+  "Liopropoma fasciatum": [
+    "Liopropoma fasciatum",
+    "Wrasse ass Bass",
+    "https://reeflifesurvey.com/species/liopropoma-fasciatum/",
+    0,
     []
   ],
   "Liopropoma rubre": [
@@ -31998,6 +32110,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_cd_57fcc7ab9eb27.w1000.h666.jpg"
     ]
+  ],
+  "Microlepidotus lethopristis": [
+    "Microlepidotus lethopristis",
+    "Scaly-fin Grunt",
+    "https://reeflifesurvey.com/species/microlepidotus-lethopristis/",
+    0,
+    []
   ],
   "Micromelo guamensis": [
     "Micromelo guamensis",
@@ -35119,6 +35238,13 @@
     2,
     []
   ],
+  "Octopus oculifer": [
+    "Octopus oculifer",
+    "Gal\u00e1pagos Reef octopus",
+    "https://reeflifesurvey.com/species/octopus-oculifer/",
+    2,
+    []
+  ],
   "Octopus pallidus": [
     "Octopus pallidus",
     "Pale octopus",
@@ -36064,6 +36190,13 @@
     "Toothshell Hermit crab",
     "https://reeflifesurvey.com/species/orthopagurus-minimus/",
     1,
+    []
+  ],
+  "Orthopristis cantharinus": [
+    "Orthopristis cantharinus",
+    "Sheephead grunt",
+    "https://reeflifesurvey.com/species/orthopristis-cantharinus/",
+    0,
     []
   ],
   "Orthopristis chrysoptera": [
@@ -39388,6 +39521,13 @@
       "https://images.reeflifesurvey.com/0/species_2b_599a484275219.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_81_599a483cd2372.w1000.h666.JPG"
     ]
+  ],
+  "Paulia horrida var. galapagensis": [
+    "Paulia horrida var. galapagensis",
+    "Prickly seastar (Galapagos)",
+    "https://reeflifesurvey.com/species/paulia-horrida-var-galapagensis/",
+    1,
+    []
   ],
   "Pavoclinus pavo": [
     "Pavoclinus pavo",
@@ -43202,6 +43342,13 @@
       "https://images.reeflifesurvey.com/0/species_fc_57897b90c653d.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/1/species_8c_5e0800ac1e569.w1000.h666.jpg"
     ]
+  ],
+  "Prionotus miles": [
+    "Prionotus miles",
+    "Galapagos gurnard",
+    "https://reeflifesurvey.com/species/prionotus-miles/",
+    0,
+    []
   ],
   "Prionurus laticlavius": [
     "Prionurus laticlavius",
@@ -51780,6 +51927,13 @@
       "https://images.reeflifesurvey.com/0/species_a0_57958d9640be3.w1000.h666.jpg"
     ]
   ],
+  "Tambja mullineri": [
+    "Tambja mullineri",
+    "Galapagos blue beauty",
+    "https://reeflifesurvey.com/species/tambja-mullineri/",
+    1,
+    []
+  ],
   "Tambja tenuilineata": [
     "Tambja tenuilineata",
     "lined tambja",
@@ -55657,6 +55811,13 @@
     1,
     []
   ],
+  "Xenichthys agassizii": [
+    "Xenichthys agassizii",
+    "White Salema",
+    "https://reeflifesurvey.com/species/xenichthys-agassizii/",
+    0,
+    []
+  ],
   "Xenocys jessiae": [
     "Xenocys jessiae",
     "Black-striped salema",
@@ -55779,6 +55940,13 @@
     "Zalophus californianus",
     "Californian sea lion",
     "https://reeflifesurvey.com/species/zalophus-californianus/",
+    0,
+    []
+  ],
+  "Zalophus wollebaeki": [
+    "Zalophus wollebaeki",
+    "Gal\u00e1pagos sea lion",
+    "https://reeflifesurvey.com/species/zalophus-wollebaeki/",
     0,
     []
   ],
